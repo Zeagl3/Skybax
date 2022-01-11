@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/Zeagl3/Skybax/main/images/skybax-banner-transparant2.png)
+![Logo](https://raw.githubusercontent.com/Zeagl3/Skybax/main/images/skybax-banner-transparant.png)
 
 # Skybax
 
