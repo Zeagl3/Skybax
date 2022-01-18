@@ -3,7 +3,7 @@
 # Skybax
 
 - [Skybax](#skybax)
-  - [What is Skybax](#whatisskybax)
+  - [What is Skybax](#what-is-skybax)
   - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
