@@ -186,7 +186,8 @@
   
   ## Contact
   
-  You can contact me through the official Discord server of Skybax: https://discord.me/skybax
+  You can contact me through the official <a href="https://discord.me/skybax">Discord server of Skybax</a><br>
+  If you like my work, you can always support me on <a href="https://www.patreon.com/Zeagle">Patreon</a>
   
   ## Changelog
   
