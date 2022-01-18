@@ -139,7 +139,7 @@
   - <a href="https://www.nexusmods.com/skyrimspecialedition/mods/11802">Legacy of The Dragonborn</a>
   - <a href="https://www.nexusmods.com/skyrimspecialedition/mods/4341">Moonpath to Elsweyr</a>
   
-  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/44810>Extended Encounters</a>, <a href="https://www.nexusmods.com/skyrimspecialedition/mods/718>Immersive Patrols</a> and <a href="https://www.nexusmods.com/skyrimspecialedition/mods/4145">OBIS</a> are also included.
+  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/44810">Extended Encounters</a>, <a href="https://www.nexusmods.com/skyrimspecialedition/mods/718">Immersive Patrols</a> and <a href="https://www.nexusmods.com/skyrimspecialedition/mods/4145">OBIS</a> are also included.
   
   ### Followers
   
