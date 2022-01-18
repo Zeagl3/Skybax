@@ -143,7 +143,7 @@
   
   ### Followers
   
-  Skybax uses <a href="https://www.nexusmods.com/skyrimspecialedition/mods/55653">Nether's Follower Framework</a>
+  Skybax uses <a href="https://www.nexusmods.com/skyrimspecialedition/mods/55653">Nether's Follower Framework</a>.<br>
   The custom followers that are in the game are:
   - <a href="https://www.nexusmods.com/skyrimspecialedition/mods/1461">INIGO</a>
   - <a href="https://www.nexusmods.com/skyrimspecialedition/mods/20035">Lucien</a>
