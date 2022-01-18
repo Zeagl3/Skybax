@@ -1,8 +1,11 @@
-1.0
-Released at: 18/01/2022
+# Changelog
 
-Added:
+## 1.0
+
+### Released at: 18/01/2022
+
+### Added:
 - Everything :)
 
-Updated:
+### Updated:
 - Nothing :(
