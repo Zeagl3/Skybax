@@ -36,7 +36,7 @@
   
   ## What is Skybax
   
-  Skybax is my own take on how to play Skyrim. It adds a lot of graphical overhauls, DLC-sized additions, animations, etc.
+  Skybax is my own take on how to play Skyrim. It adds a lot of graphical overhauls, DLC-sized additions, animations, etc.<br><br>
   Oh yeah, it's also NSFW :)
   
   ## Installation
