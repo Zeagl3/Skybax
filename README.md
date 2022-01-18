@@ -171,7 +171,7 @@
   Start creating your character, in the "Head" tab, scroll down to the "Face Part" option and select number 3 "High Poly Head".
   When choosing your brows and beard, use the ones that are compatible with High Poly Head.
   
-  If you're happy with your character, interact with the Dibella statue to choose a game start, then go to sleep in the bed behind you.
+  If you're happy with your character, interact with the Mara statue to choose a game start, then go to sleep in the bed behind you.
   
   ## In-Game MCM Options
   
