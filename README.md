@@ -114,8 +114,10 @@
   
   ## How to start up Skybax
   
-  Go to the Skybax install directory, you'll find a shortcut named "Skybax" with the Skyrim logo.
-  Juts double click on it to launch the game.
+  Go to the Skybax install directory, you'll find an executable named "ModOrganizer.exe", double click this.
+  In the dropdown on the right, make sure "Skybax" is selected and press the Play button.
+  
+  It can take some seconds until the main menu shows up.
   
   ## Updating
   
