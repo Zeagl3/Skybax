@@ -2,6 +2,8 @@
 
 ## 1.1 (Unreleased)
 
+This is mainly a bugfix version. More content in the next release!
+
 ### Added:
 
 
