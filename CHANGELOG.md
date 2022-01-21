@@ -8,7 +8,7 @@ This is mainly a bugfix version. More content in the next release!
 - <a href="https://www.nexusmods.com/skyrimspecialedition/mods/46311">Highly Improved Mail Body (HIMBO) 4.3</a>
 
 ### Updated:
-
+- Nothing
 
 ### Fixed:
 - Fixed the ReShade CurrentPresetPath, ReShade and screenshots now work
