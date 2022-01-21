@@ -5,7 +5,7 @@
 This is mainly a bugfix version. More content in the next release!
 
 ### Added:
-- <a href="https://www.nexusmods.com/skyrimspecialedition/mods/46311" target="_blank">Highly Improved Mail Body (HIMBO) 4.3</a>
+- [Highly Improved Mail Body (HIMBO) 4.3](https://www.nexusmods.com/skyrimspecialedition/mods/46311)
 
 ### Updated:
 - Nothing
