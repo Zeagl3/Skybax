@@ -1,4 +1,4 @@
-# Changelog (<a href="https://modwat.ch/u/Skybax/modlist">Modlist</a>)
+# Changelog ([Modlist](https://modwat.ch/u/Skybax/modlist))
 
 ## 1.1 (Unreleased)
 
