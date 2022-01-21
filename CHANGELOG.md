@@ -8,6 +8,7 @@ This is mainly a bugfix version. More content in the next release!
 - [Highly Improved Mail Body (HIMBO) 4.3](https://www.nexusmods.com/skyrimspecialedition/mods/46311)
 - [Hearthfire - High Poly Head NPC Replacer 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/46656)
 - [Kato's Falkreath 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/7509)
+- TextGen Output Performance Mode
 
 ### Updated:
 - DynDOLOD Resources SE 3 : Alpha-17 --&gt; Alpha-19

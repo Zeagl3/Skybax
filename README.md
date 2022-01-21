@@ -27,6 +27,7 @@
     - [Followers](#followers)
     - [Audio and Weather](#audio-and-weather)
     - [NSFW](#nsfw)
+	- [Performance Mode](#performance-mode)
   - [Creating your Character](#creating-your-character)
   - [In-Game MCM Options](#in-game-mcm-options)
   - [Credits and Thanks](#credits-and-thanks)
@@ -162,6 +163,19 @@
   Skybax uses the OSA/OSex/OStim framework.
   If you want to have a "clean" playthrough without random sex, you can disable the "OStim - ONights - NPC Sex Lives" mod.
   NPC's won't have sex then, so you have full control over the NSFW stuff.
+  
+  ### Performance Mode
+  
+  If you are having lots of FPS drops, you can try to enable Performance Mode.
+  This can be done by disabling the following mods:
+  - 05 - GRAPHICS --&gt; DynDOLOD Resources SE
+  - 35 - GENERATED FILES --&gt; TexGen Output
+  - 35 - GENERATED FILES --&gt; DynDOLOD Output
+  
+  And then enable these mods:
+  - 05 - GRAPHICS --&gt; DynDOLOD Resources SE - Performance Mode
+  - 35 - GENERATED FILES --&gt; TexGen Output Performance Mode
+  - 35 - GENERATED FILES --&gt; DynDOLOD Output Performance Mode
   
   ## Creating your Character
   
