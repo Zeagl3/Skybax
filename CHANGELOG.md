@@ -23,6 +23,7 @@ This is mainly a bugfix version. More content in the next release!
 - Reran BodySlide for CBBE and HIMBO with zeroed sliders
 - Missing ground in Falkreath
 - Regenerated TexGen and DynDOLOD
+- Disabled AutoSave to prevent corrupt saves
 
 
 ## 1.0 (Released @ 19/01/2022)
