@@ -45,7 +45,7 @@
   
   #### Installing Microsoft Visual C++ Redistributable Package
   
-  You need to download and install this from the <a href="https://aka.ms/vs/16/release/vc_redist.x64.exe">Microsoft website</a>.
+  You need to download and install this from the [Microsoft website](https://aka.ms/vs/16/release/vc_redist.x64.exe).
   
   #### Steam Config
     
@@ -71,20 +71,20 @@
   
   #### Preparations
   
-  Download the latest version of Wabbajack from <a href="https://github.com/wabbajack-tools/wabbajack/releases">here</a>.
+  Download the latest version of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases).
   Put the Wabbajack.exe in a working folder, NOT in a common folder like Desktop, Downloads or Program Files.
   
   ##### Downgrade Skyrim
   
   Skybax requires the latest version of Skyrim Special Edition (1.5.97.0), so the pre-AE version.
-  If you have upgraded your Skyrim to AE, download the <a href="https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files">Unofficial Downgrader</a> (FullPatcher.exe) and let it run.
+  If you have upgraded your Skyrim to AE, download the [Unofficial Downgrader](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) (FullPatcher.exe) and let it run.
   This may take a while.
   
   #### Downloading and Installing
   
   The download and installation of Skybax can take some time depending on your internet speed and PC specs.
   It is recommended to install Skybax on an SSD drive.
-  1. Download the Skybax Wabbajack file from the <a href="https://discord.me/skybax">Skybax Discord server</a> (Releases channel)
+  1. Download the Skybax Wabbajack file from the [Skybax Discord server](https://discord.me/skybax) (Releases channel)
   2. Open Wabbajack
   3. Click "Install From Disk"
   4. "Target Modlist": select the downloaded Skybax Wabbajack file
@@ -96,7 +96,7 @@
   ##### Problems with Wabbajack
   
   Some mods won't be downloaded through Wabbajack because they are not available on the Skyrim Nexus.
-  The mods that need a manual download are listed in the <a href="https://discord.me/skybax">Skybax Discord server</a>.
+  The mods that need a manual download are listed in the [Skybax Discord server](https://discord.me/skybax).
   Download them and put them in the mod's Download folder.
   
   ## Post-Installation
@@ -108,7 +108,7 @@
   
   ### ENB
   
-  Skybax comes with <a href="https://www.nexusmods.com/skyrimspecialedition/mods/39113">Rudy ENB SE for Cathedral Weathers Zangdar's Edit Lux Edition</a>.
+  Skybax comes with [Rudy ENB SE for Cathedral Weathers Zangdar's Edit Lux Edition](https://www.nexusmods.com/skyrimspecialedition/mods/39113).
   If you want a different ENB, you can choose one of the many available on the Skyrim Nexus that support Cathedral Weather.
   Just follow the install instructions of those ENB's to get them working.
   
@@ -121,7 +121,7 @@
   
   ## Updating
   
-  If there is a new release of Skybax, you can download the Wabbajack file from the <a href="https://discord.me/skybax">Skybax Discord server</a> (Releases channel).
+  If there is a new release of Skybax, you can download the Wabbajack file from the [Skybax Discord server](https://discord.me/skybax) (Releases channel).
   Repeat the installatio steps of Skybax, but before you press the Play button, check "Overwrite Installation".
   
   <b>Wabbajack will delete all files that are not part of Skybax when updating!</b>
@@ -133,29 +133,29 @@
   ### Quest and Encounter Mods
   
   Skybax has some DLC-sized additions like:</a>
-  - <a href="https://www.nexusmods.com/skyrimspecialedition/mods/1179">The Forgotten City</a>
-  - <a href="https://www.nexusmods.com/skyrimspecialedition/mods/45565">Wyrmstooth</a>
-  - <a href="https://www.nexusmods.com/skyrimspecialedition/mods/10423">Darkend</a>
-  - <a href="https://www.nexusmods.com/skyrimspecialedition/mods/5673">Helgen Reborn</a>
-  - <a href="https://www.nexusmods.com/skyrimspecialedition/mods/49346">Stendarr Rising</a>
-  - <a href="https://www.nexusmods.com/skyrimspecialedition/mods/11802">Legacy of The Dragonborn</a>
-  - <a href="https://www.nexusmods.com/skyrimspecialedition/mods/4341">Moonpath to Elsweyr</a>
+  - [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179)
+  - [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
+  - [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423)
+  - [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673)
+  - [Stendarr Rising](https://www.nexusmods.com/skyrimspecialedition/mods/49346)
+  - [Legacy of The Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
+  - [Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341)
   
-  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/44810">Extended Encounters</a>, <a href="https://www.nexusmods.com/skyrimspecialedition/mods/718">Immersive Patrols</a> and <a href="https://www.nexusmods.com/skyrimspecialedition/mods/4145">OBIS</a> are also included.
+  [Extended Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/44810), [Immersive Patrols](https://www.nexusmods.com/skyrimspecialedition/mods/718) and [OBIS](https://www.nexusmods.com/skyrimspecialedition/mods/4145) are also included.
   
   ### Followers
   
-  Skybax uses <a href="https://www.nexusmods.com/skyrimspecialedition/mods/55653">Nether's Follower Framework</a>.<br>
+  Skybax uses [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653).<br>
   The custom followers that are in the game are:
-  - <a href="https://www.nexusmods.com/skyrimspecialedition/mods/1461">INIGO</a>
-  - <a href="https://www.nexusmods.com/skyrimspecialedition/mods/20035">Lucien</a>
-  - <a href="https://www.nexusmods.com/skyrimspecialedition/mods/11278">Auri</a> (<a href="https://www.nexusmods.com/skyrimspecialedition/mods/58404">Deluxe version</a>)
-  - <a href="https://www.nexusmods.com/skyrimspecialedition/mods/54101">Vixi Talax</a>
-  - <a href="https://www.nexusmods.com/skyrimspecialedition/mods/969">Ambriel</a> (<a href="https://www.nexusmods.com/skyrimspecialedition/mods/2200">Overhaul</a>)
+  - [INIGO](https://www.nexusmods.com/skyrimspecialedition/mods/1461)
+  - [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035)
+  - [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) ([Deluxe version](https://www.nexusmods.com/skyrimspecialedition/mods/58404))
+  - [Vixi Talax](https://www.nexusmods.com/skyrimspecialedition/mods/54101)
+  - [Ambriel](https://www.nexusmods.com/skyrimspecialedition/mods/969) ([Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2200))
   
   ### Audio and Weather
   
-  Skybax uses <a href="https://www.nexusmods.com/skyrimspecialedition/mods/24791">Cathedral Weather and Season</a> with the <a href="https://www.nexusmods.com/skyrimspecialedition/mods/39113">Rudy ENB</a>.
+  Skybax uses [Cathedral Weather and Season](https://www.nexusmods.com/skyrimspecialedition/mods/24791) with the [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/39113).
   
   ### NSFW
   
@@ -186,12 +186,12 @@
   
   ## Contact
   
-  You can contact me through the official <a href="https://discord.me/skybax">Discord server of Skybax</a><br>
-  If you like my work, you can always support me on <a href="https://www.patreon.com/Zeagle">Patreon</a>
+  You can contact me through the official [Discord server of Skybax](https://discord.me/skybax)<br>
+  If you like my work, you can always support me on [Patreon](https://www.patreon.com/Zeagle).
   
   ## Changelog
   
-  See <a href="https://github.com/Zeagl3/Skybax/blob/main/CHANGELOG.md">Changelog</a>
+  See [Changelog](https://github.com/Zeagl3/Skybax/blob/main/CHANGELOG.md)
   
   ## The End
   
