@@ -170,11 +170,13 @@
   This can be done by disabling the following mods:
   - 05 - GRAPHICS --&gt; DynDOLOD Resources SE
   - 35 - GENERATED FILES --&gt; TexGen Output
+  - 35 - GENERATED FILES --&gt; xLODGen Output
   - 35 - GENERATED FILES --&gt; DynDOLOD Output
   
   And then enable these mods:
   - 05 - GRAPHICS --&gt; DynDOLOD Resources SE - Performance Mode
   - 35 - GENERATED FILES --&gt; TexGen Output Performance Mode
+  - 35 - GENERATED FILES --&gt; xLODGen Output Performance Mode
   - 35 - GENERATED FILES --&gt; DynDOLOD Output Performance Mode
   
   ## Creating your Character
