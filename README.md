@@ -97,7 +97,7 @@
   ##### Problems with Wabbajack
   
   Some mods won't be downloaded through Wabbajack because they are not available on the Skyrim Nexus.
-  The mods that need a manual download are listed in the [Skybax Discord server](https://discord.me/skybax).
+  The mods that need a manual download are listed in the [Skybax Discord server](https://discord.gg/C7rqSmzNpf).
   Download them and put them in the mod's Download folder.
   
   ## Post-Installation
