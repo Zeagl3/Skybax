@@ -1,6 +1,6 @@
 # Changelog ([Modlist](https://modwat.ch/u/Skybax/modlist))
 
-## 1.1 (Unreleased)
+## 1.1 (In Development)
 
 This is mainly a bugfix version. More content in the next release!
 
