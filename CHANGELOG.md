@@ -9,6 +9,7 @@ This is mainly a bugfix version. More content in the next release!
 - [Hearthfire - High Poly Head NPC Replacer 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/46656)
 - [Kato's Falkreath 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/7509)
 - TexGen Output Performance Mode
+- Some Settings Loaders
 
 ### Updated:
 - DynDOLOD Resources SE 3 : Alpha-17 --&gt; Alpha-19
