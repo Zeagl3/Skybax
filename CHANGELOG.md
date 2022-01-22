@@ -8,6 +8,8 @@ This is mainly a bugfix version. More content in the next release!
 - [Highly Improved Mail Body (HIMBO) 4.3](https://www.nexusmods.com/skyrimspecialedition/mods/46311)
 - [Hearthfire - High Poly Head NPC Replacer 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/46656)
 - [Kato's Falkreath 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/7509)
+- xLODGen
+- xLODGen Output (+ Performance Mode)
 - TexGen Output Performance Mode
 
 ### Updated:
@@ -18,11 +20,11 @@ This is mainly a bugfix version. More content in the next release!
 - Cities of The North - Falkreath
 
 ### Fixed:
-- Fixed the ReShade CurrentPresetPath, ReShade and screenshots now work
-- Disabled BodyGen in Racemenu to make OBody work
+- Fixed the ReShade CurrentPresetPath, ReShade and screenshots should work now
 - Reran BodySlide for CBBE and HIMBO with zeroed sliders
-- Missing ground in Falkreath
-- Regenerated TexGen and DynDOLOD
+- Disabled BodyGen in Racemenu to make OBody work
+- Fixed missing ground in Falkreath
+- Regenerated TexGen and DynDOLOD (+ Performance Modes)
 - Disabled AutoSave to prevent corrupt saves
 
 
