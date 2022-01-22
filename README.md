@@ -38,7 +38,7 @@
   ## What is Skybax
   
   Skybax is my own take on how to play Skyrim. It adds a lot of graphical overhauls, DLC-sized additions, animations, etc.<br><br>
-  Oh yeah, it's also NSFW :)
+  <b>Oh yeah, it's also NSFW :)</b>
   
   ## Installation
   
@@ -85,7 +85,7 @@
   
   The download and installation of Skybax can take some time depending on your internet speed and PC specs.
   It is recommended to install Skybax on an SSD drive.
-  1. Download the Skybax Wabbajack file from the [Skybax Discord server](https://discord.me/skybax) (Releases channel)
+  1. Download the Skybax Wabbajack file from the [Skybax Discord server](https://discord.gg/C7rqSmzNpf) (Releases channel)
   2. Open Wabbajack
   3. Click "Install From Disk"
   4. "Target Modlist": select the downloaded Skybax Wabbajack file
@@ -122,8 +122,8 @@
   
   ## Updating
   
-  If there is a new release of Skybax, you can download the Wabbajack file from the [Skybax Discord server](https://discord.me/skybax) (Releases channel).
-  Repeat the installatio steps of Skybax, but before you press the Play button, check "Overwrite Installation".
+  If there is a new release of Skybax, you can download the Wabbajack file from the [Skybax Discord server](https://discord.gg/C7rqSmzNpf) (Releases channel).
+  Repeat the installation steps of Skybax, but before you press the Play button, check "Overwrite Installation".
   
   <b>Wabbajack will delete all files that are not part of Skybax when updating!</b>
   
@@ -200,7 +200,7 @@
   
   ## Contact
   
-  You can contact me through the official [Discord server of Skybax](https://discord.me/skybax)<br>
+  You can contact me through the official [Discord server of Skybax](https://discord.gg/C7rqSmzNpf)<br>
   If you like my work, you can always support me on [Patreon](https://www.patreon.com/Zeagle).
   
   ## Changelog
