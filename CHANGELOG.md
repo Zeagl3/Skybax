@@ -31,7 +31,7 @@ This is mainly a bugfix version. More content in the next release!
 - Regenerated TexGen and DynDOLOD (+ Performance Modes)
 - Disabled AutoSave to prevent corrupt saves
 - Assigned keybinds of your favourites now show up correctly in favourites menu
-- Purple hair for some male characters in Riften
+- Fixed purple hair for some male characters in Riften
 
 
 ## 1.0 (Released @ 19/01/2022)
