@@ -1,4 +1,4 @@
-# Changelog ([Modlist](https://modwat.ch/u/Skybax/modlist))
+# Changelog ([Modlist](https://loadorderlibrary.com/lists/skybax))
 
 ## 1.1 (Released @ 24/01/2022)
 
