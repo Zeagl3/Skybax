@@ -12,6 +12,7 @@ This is mainly a bugfix version. More content in the next release!
 - Some Settings Loaders
 - [Disable Follower Collision 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/35925)
 - [Floating Damage 2.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/14332) ([Better Preset](https://www.nexusmods.com/skyrimspecialedition/mods/47523))
+- A way to add a fancy shortcut to your desktop (see [ReadMe](https://github.com/Zeagl3/Skybax#how-to-start-up-skybax))
 
 ### Updated:
 - DynDOLOD Resources SE 3 : Alpha-17 --&gt; Alpha-19
