@@ -211,7 +211,7 @@
   ## Contact
   
   You can contact me through the official [Discord server of Skybax](https://discord.gg/C7rqSmzNpf)<br>
-  If you like my work, you can always support me on [Patreon](https://www.patreon.com/Zeagle).
+  If you like my work, you can always support me on [Patreon](https://www.patreon.com/Zeagle) or donate via [PayPal](https://paypal.me/Zeagle).
   
   ## Changelog
   
