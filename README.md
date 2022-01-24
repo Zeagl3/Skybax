@@ -179,15 +179,19 @@
   
   ## Creating your Character
   
-  When creating a new game, you'll spawn in an Alternate Start - Live Another Life cell, just <b>wait</b> until all messages at the top left are gone.
+  When creating a new game, you'll spawn in an Alternate Start - Live Another Life cell.
+  Start creating your character, in the "Head" tab, scroll down to the "Face Part" option and select number 3 "High Poly Head".
+  When choosing your brows and beard, use the ones that are compatible with High Poly Head (all of them, except vanilla).
+  If you're happy with your character, save it and name it.
+  
+  Now just <b>wait</b> until all messages at the top left are gone.
   When the "Fertility+" popup comes up, just select "No", this mod is quite heavy on loading, so we do this later on.
+  If there are no more messages coming up in the top left, press ESC, go to the "MCM" menu and scroll down to "Fertility+".
+  Enable the mod, exit the options menu and wait +/- 20 seconds.
   
   Hit ESC and create a manual save, just to be sure.
   
-  Start creating your character, in the "Head" tab, scroll down to the "Face Part" option and select number 3 "High Poly Head".
-  When choosing your brows and beard, use the ones that are compatible with High Poly Head.
-  
-  If you're happy with your character, interact with the Mara statue to choose a game start, then go to sleep in the bed behind you.
+  Now you're ready to start your adventure, interact with the Mara statue to choose a game start, then go to sleep in the bed behind you.
   
   ## In-Game MCM Options
   
