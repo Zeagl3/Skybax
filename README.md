@@ -201,7 +201,7 @@
   
   I've tweaked some of the settings, but if you don't like them, you're free to change them as you like.
   
-  <b>Don't forget to go to the Nemesis PCEA mod, and enable "0Dser_Animations".<b>
+  <b>Don't forget to go to the Nemesis PCEA mod, and enable "0Dser_Animations".</b>
   
   ## Credits and Thanks
   
