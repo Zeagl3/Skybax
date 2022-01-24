@@ -115,8 +115,11 @@
   
   ## How to start up Skybax
   
-  Go to the Skybax install directory, you'll find an executable named "ModOrganizer.exe", double click this.
-  In the dropdown on the right, make sure "Skybax" is selected and press the Play button.
+  1. Go to the Skybax install directory, you'll find an executable named "ModOrganizer.exe", double click this.
+  2. In the dropdown on the right, make sure "Skybax" is selected, then press the "Shortcut" button.
+  3. Add a Shortcut to your Desktop.
+  4. Close Mod Organizer.
+  5. Run Skybax through the shortcut you created on your desktop.  
   
   It can take some seconds until the main menu shows up.
   
