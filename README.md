@@ -189,8 +189,9 @@
   
   Now just <b>wait</b> until all messages at the top left are gone.
   When the "Fertility+" popup comes up, just select "No", this mod is quite heavy on loading, so we do this later on.
-  If there are no more messages coming up in the top left, press ESC, go to the "MCM" menu and scroll down to "Fertility+".
-  Enable the mod, exit the options menu and wait +/- 20 seconds.
+  If there are no more messages coming up in the top left, press ESC, go to the "MCM" menu and scroll down to "Nemesis PCEA".
+  Enable "0Dser_Animations".
+  Then go to "Fertility Mode+", enable the mod, exit the options menu and wait +/- 20 seconds.
   
   Hit ESC and create a manual save, just to be sure.
   
@@ -199,6 +200,8 @@
   ## In-Game MCM Options
   
   I've tweaked some of the settings, but if you don't like them, you're free to change them as you like.
+  
+  <b>Don't forget to go to the Nemesis PCEA mod, and enable "0Dser_Animations".<b>
   
   ## Credits and Thanks
   
