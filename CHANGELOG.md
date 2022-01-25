@@ -18,6 +18,8 @@
 - [Greek Goddess BodySlide Preset 4.0](https://www.nexusmods.com/skyrimspecialedition/mods/24201)
 - [mcgFemaleWalk for Skyrim SE 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/13640)
 - [Tempered Skins for Males - SOS Full Version 2.06](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
+- [Greek God - HIMBO BodySlide Preset 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/54349)
+- [HIMBO Regular Guy BodySlide Preset 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/48743)
 
 ### Updated:
 - Fixed Mesh Lighting: 1.6 --&gt; 1.6.2
