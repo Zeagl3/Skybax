@@ -4,6 +4,7 @@
 
 ### Added:
 - [Amorous Adventures for OStim 3.4.0.1Beta](https://www.nexusmods.com/skyrimspecialedition/mods/48912)
+- [VIGILANT SE 1.6.2](https://www.nexusmods.com/skyrimspecialedition/mods/11849) ([English Voices](https://www.nexusmods.com/skyrimspecialedition/mods/11894))
 
 ### Updated:
 -
