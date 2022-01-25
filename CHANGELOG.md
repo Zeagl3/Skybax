@@ -8,6 +8,8 @@
 - [The Gray Cowl of Nocturnal SE 1.3](https://www.nexusmods.com/skyrimspecialedition/mods/4509) ([HD Texture Pack](https://www.nexusmods.com/skyrimspecialedition/mods/7644))
 - [Land of Vominheim SE 2.04.1](https://www.nexusmods.com/skyrimspecialedition/mods/31472) (+ [Addons](https://www.nexusmods.com/skyrimspecialedition/mods/52435))
 - [Beyond Reach 4.51](https://www.nexusmods.com/skyrimspecialedition/mods/3008)
+- [Beyond Skyrim - Bruma SE 1.5.3](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
+- [SG Female Eyebrows 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/25890)
 
 ## 1.1.1 Hotfix Release (Released @ 25/01/2022)
 
