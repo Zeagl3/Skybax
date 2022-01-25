@@ -11,6 +11,10 @@
 - [Beyond Skyrim - Bruma SE 1.5.3](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
 - [SG Female Eyebrows 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/25890)
 
+### Updated:
+- Fixed Mesh Lighting: 1.6 --&gt; 1.6.2
+
+
 ## 1.1.1 Hotfix Release (Released @ 25/01/2022)
 
 ### Added:
