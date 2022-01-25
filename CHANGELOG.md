@@ -1,12 +1,9 @@
 # Changelog ([Modlist](https://loadorderlibrary.com/lists/skybax))
 
-## 1.2 (In Development)
+## 1.1.1 Hotfix Release (Released @ 25/01/2022)
 
 ### Added:
 - [Bounties Are Worthwhile 2](https://www.nexusmods.com/skyrimspecialedition/mods/33594)
-
-### Updated:
-- 
 
 ### Removed:
 - Bounty Preview
