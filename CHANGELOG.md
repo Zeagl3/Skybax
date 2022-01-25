@@ -1,5 +1,20 @@
 # Changelog ([Modlist](https://loadorderlibrary.com/lists/skybax))
 
+## 1.2 (In Development
+
+### Added:
+- [Bounties Are Worthwhile 2](https://www.nexusmods.com/skyrimspecialedition/mods/33594)
+
+### Updated:
+- 
+
+### Removed:
+- Bounty Preview
+
+### Fixed:
+- Fixed bounties given by Innkeepers not starting
+
+
 ## 1.1 (Released @ 24/01/2022)
 
 This is mainly a bugfix version. More content in the next release!
