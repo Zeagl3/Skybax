@@ -8,11 +8,28 @@
 - [The Gray Cowl of Nocturnal SE 1.3](https://www.nexusmods.com/skyrimspecialedition/mods/4509) ([HD Texture Pack](https://www.nexusmods.com/skyrimspecialedition/mods/7644))
 - [Land of Vominheim SE 2.04.1](https://www.nexusmods.com/skyrimspecialedition/mods/31472) (+ [Addons](https://www.nexusmods.com/skyrimspecialedition/mods/52435))
 - [Beyond Reach 4.51](https://www.nexusmods.com/skyrimspecialedition/mods/3008)
-- [Beyond Skyrim - Bruma SE 1.5.3](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
+- [Beyond Skyrim - Bruma SE 1.5.2](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
 - [SG Female Eyebrows 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/25890)
+- [Seductive Lips HD SE Edition 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/4864)
+- [Diamond Skin - CBBE Female Textures 1.9.4](https://www.nexusmods.com/skyrimspecialedition/mods/45718)
+- [Kurone CBBE 3BBB BodySlide Preset](https://www.nexusmods.com/skyrimspecialedition/mods/46560)
+- [EAR CBBE 3BBB BodySlide Preset (Elegant Version)](https://www.nexusmods.com/skyrimspecialedition/mods/62475)
+- [Dream Angels BodySlide Preset 1.4](https://www.nexusmods.com/skyrimspecialedition/mods/15360)
+- [Greek Goddess BodySlide Preset 4.0](https://www.nexusmods.com/skyrimspecialedition/mods/24201)
+- [mcgFemaleWalk for Skyrim SE 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/13640)
+- [Tempered Skins for Males - SOS Full Version 2.06](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
 
 ### Updated:
 - Fixed Mesh Lighting: 1.6 --&gt; 1.6.2
+- HIMBO Refits: 4.3 --&gt; 4.3.1
+
+### Removed:
+- SkySight Skins - Ultra HD Male Textures
+
+### Fixed:
+- Reran BodySlide for new presets
+- Fixed color difference between male head & body
+- Regenerated TexGen and DynDOLOD for new areas
 
 
 ## 1.1.1 Hotfix Release (Released @ 25/01/2022)
