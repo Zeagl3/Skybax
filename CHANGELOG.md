@@ -20,16 +20,21 @@
 - [Tempered Skins for Males - SOS Full Version 2.06](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
 - [Greek God - HIMBO BodySlide Preset 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/54349)
 - [HIMBO Regular Guy BodySlide Preset 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/48743)
+- [Fertility Adventures 0.32](https://www.nexusmods.com/skyrimspecialedition/mods/56750)
+- [L'Amour Rose Animation Pack 0.28](https://www.nexusmods.com/skyrimspecialedition/mods/60722)
 
 ### Updated:
 - Fixed Mesh Lighting: 1.6 --&gt; 1.6.2
 - HIMBO Refits: 4.3 --&gt; 4.3.1
+- Fertility Mode v3 Fixes and Tweaks: 2.31 --&gt; 2.33
+- OSex - New Animations by aceanimations: 0.4.2nexus --&gt; 0.6.1nexus
 
 ### Removed:
 - SkySight Skins - Ultra HD Male Textures
 
 ### Fixed:
 - Reran BodySlide for new presets
+- Reran Nemesis for new animations
 - Fixed color difference between male head & body
 - Regenerated TexGen and DynDOLOD for new areas
 
