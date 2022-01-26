@@ -60,7 +60,7 @@
 This is mainly a bugfix version. More content in the next release!
 
 ### Added:
-- [Highly Improved Mail Body (HIMBO) 4.3](https://www.nexusmods.com/skyrimspecialedition/mods/46311)
+- [Highly Improved Male Body (HIMBO) 4.3](https://www.nexusmods.com/skyrimspecialedition/mods/46311)
 - [Hearthfire - High Poly Head NPC Replacer 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/46656)
 - [Kato's Falkreath 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/7509)
 - TexGen Output Performance Mode
