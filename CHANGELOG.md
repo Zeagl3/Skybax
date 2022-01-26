@@ -1,6 +1,6 @@
 # Changelog ([Modlist](https://loadorderlibrary.com/lists/skybax))
 
-## 1.2 (In Development)
+## 1.2 'The Content Update' (In Development)
 
 ### Added:
 - [Amorous Adventures for OStim 3.4.0.1Beta](https://www.nexusmods.com/skyrimspecialedition/mods/48912)
