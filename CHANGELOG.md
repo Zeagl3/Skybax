@@ -22,6 +22,10 @@
 - [HIMBO Regular Guy BodySlide Preset 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/48743)
 - [Fertility Adventures 0.32](https://www.nexusmods.com/skyrimspecialedition/mods/56750)
 - [L'Amour Rose Animation Pack 0.28](https://www.nexusmods.com/skyrimspecialedition/mods/60722)
+- [Dark Brotherhood For Good Guys 3.1](https://www.nexusmods.com/skyrimspecialedition/mods/519) ([Tweaks and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/40647))
+- [Thieves Guild For Good Guys - Taking Care of Business Redux 4.0](https://www.nexusmods.com/skyrimspecialedition/mods/10745)
+- [Boethiah For Good Guys 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/329)
+- [Namira For Good Guys 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/336)
 
 ### Updated:
 - Fixed Mesh Lighting: 1.6 --&gt; 1.6.2
