@@ -37,7 +37,7 @@
 ### Removed:
 - SkySight Skins - Ultra HD Male Textures
 
-### Fixed/TWeaked:
+### Fixed/Tweaked:
 - Reran BodySlide for new presets
 - Reran Nemesis for new animations
 - Fixed color difference between male head & body
