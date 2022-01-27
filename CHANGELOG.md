@@ -26,6 +26,7 @@
 - [Thieves Guild For Good Guys - Taking Care of Business Redux 4.0](https://www.nexusmods.com/skyrimspecialedition/mods/10745)
 - [Boethiah For Good Guys 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/329)
 - [Namira For Good Guys 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/336)
+- [Sleeping Expanded - Animations and NPC Reactions 1.2](https://www.nexusmods.com/skyrimspecialedition/mods/59250)
 
 ### Updated:
 - Fixed Mesh Lighting: 1.6 --&gt; 1.6.2
@@ -41,6 +42,7 @@
 - Reran Nemesis for new animations
 - Fixed color difference between male head & body
 - Regenerated TexGen and DynDOLOD for new areas
+- Made the wait/rest menu pass hours faster
 
 
 ## 1.1.1 Hotfix Release (Released @ 25/01/2022)
