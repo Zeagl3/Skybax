@@ -206,6 +206,7 @@
   ## Credits and Thanks
   
   - YOU for downloading and (hopefully) playing (and enjoying) Skybax!
+  - The users of the [Discord server](https://discord.gg/C7rqSmzNpf) for their support and mod suggestions.
   - The Wabbajack team - It's an incredible program!
   
   ## Contact
