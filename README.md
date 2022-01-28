@@ -33,7 +33,7 @@
   - [Credits and Thanks](#credits-and-thanks)
   - [Contact](#contact)
   - [Changelog](#changelog)
-  - [The End](#theend)
+  - [The End](#the-end)
   
   ## What is Skybax
   
