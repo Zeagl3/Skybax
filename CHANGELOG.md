@@ -11,7 +11,7 @@
 - [Beyond Skyrim - Bruma SE 1.5.2](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
 - [SG Female Eyebrows 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/25890)
 - [Seductive Lips HD SE Edition 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/4864)
-- [Diamond Skin - CBBE Female Textures 1.9.4](https://www.nexusmods.com/skyrimspecialedition/mods/45718)
+- [Fair Skin Complexion 10.0](https://www.nexusmods.com/skyrimspecialedition/mods/798)
 - [Kurone CBBE 3BBB BodySlide Preset 1.2](https://www.nexusmods.com/skyrimspecialedition/mods/46560)
 - [EAR CBBE 3BBB BodySlide Preset (Elegant Version) 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/62475)
 - [Dream Angels BodySlide Preset 1.4](https://www.nexusmods.com/skyrimspecialedition/mods/15360)
