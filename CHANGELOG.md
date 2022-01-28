@@ -16,6 +16,7 @@
 - [EAR CBBE 3BBB BodySlide Preset (Elegant Version) 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/62475)
 - [Dream Angels BodySlide Preset 1.4](https://www.nexusmods.com/skyrimspecialedition/mods/15360)
 - [Greek Goddess BodySlide Preset 4.0](https://www.nexusmods.com/skyrimspecialedition/mods/24201)
+- [Lust of the Gods BodySlide Preset 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/62679)
 - [mcgFemaleWalk for Skyrim SE 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/13640)
 - [Tempered Skins for Males - SOS Full Version 2.06](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
 - [Greek God - HIMBO BodySlide Preset 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/54349)
@@ -27,12 +28,17 @@
 - [Boethiah For Good Guys 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/329)
 - [Namira For Good Guys 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/336)
 - [Sleeping Expanded - Animations and NPC Reactions 1.2](https://www.nexusmods.com/skyrimspecialedition/mods/59250)
+- [ESO Cursor 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/39670)
+- [Quick Loot RE 2.8.6](https://www.nexusmods.com/skyrimspecialedition/mods/21085)
+- [Colored And Animated Celtic Icons for SkyUI 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/23054)
+- [Player Rotation in RaceMenu 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/36095)
 
 ### Updated:
 - Fixed Mesh Lighting: 1.6 --&gt; 1.6.2
 - HIMBO Refits: 4.3 --&gt; 4.3.1
 - Fertility Mode v3 Fixes and Tweaks: 2.31 --&gt; 2.33
 - OSex - New Animations by aceanimations: 0.4.2nexus --&gt; 0.6.1nexus
+- Faster HDT-SMP: 1.18 --&gt; 1.27
 
 ### Removed:
 - SkySight Skins - Ultra HD Male Textures
