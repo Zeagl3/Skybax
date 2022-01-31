@@ -32,6 +32,7 @@
 - [Quick Loot RE 2.8.6](https://www.nexusmods.com/skyrimspecialedition/mods/21085)
 - [Colored And Animated Celtic Icons for SkyUI 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/23054)
 - [Player Rotation in RaceMenu 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/36095)
+- [Security Overhaul SKSE - Regional Locks 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/62781)
 
 ### Updated:
 - Fixed Mesh Lighting: 1.6 --&gt; 1.6.2
@@ -39,6 +40,7 @@
 - Fertility Mode v3 Fixes and Tweaks: 2.31 --&gt; 2.33
 - OSex - New Animations by aceanimations: 0.4.2nexus --&gt; 0.6.1nexus
 - Faster HDT-SMP: 1.18 --&gt; 1.27
+- Security Overhaul SKSE - Lock Variations: 2.1 --&gt; 3.0
 
 ### Removed:
 - SkySight Skins - Ultra HD Male Textures
