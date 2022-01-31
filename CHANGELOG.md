@@ -52,6 +52,7 @@
 - Regenerated TexGen and DynDOLOD for new areas
 - Made the wait/rest menu pass hours faster
 - Fixed missing well in Windhelm
+- Fixed Falkreath carriage spawned in wall
 
 
 ## 1.1.1 Hotfix Release (Released @ 25/01/2022)
