@@ -34,6 +34,8 @@
 - [Player Rotation in RaceMenu 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/36095)
 - [Security Overhaul SKSE - Regional Locks 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/62781)
 - [Class Overhaul Re-Imagined 5.2.8](https://www.nexusmods.com/skyrimspecialedition/mods/24808)
+- [Genders Are Boringly Indistinct 8.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/23145)
+- [Evenstar - Minimalistic Standing Stones of Skyrim 1.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/41256)
 
 ### Updated:
 - Fixed Mesh Lighting: 1.6 --&gt; 1.6.2
@@ -42,6 +44,9 @@
 - OSex - New Animations by aceanimations: 0.4.2nexus --&gt; 0.6.1nexus
 - Faster HDT-SMP: 1.18 --&gt; 1.27
 - Security Overhaul SKSE - Lock Variations: 2.1 --&gt; 3.0
+- Sacrilege: 2.0 --&gt; 2.1
+- Growl - Werebeasts of Skyrim: 2.3 --&gt; 3.0
+- Vokrii: 3.8 --&gt; 3.8.2
 
 ### Removed:
 - SkySight Skins - Ultra HD Male Textures
