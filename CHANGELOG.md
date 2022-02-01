@@ -45,6 +45,7 @@
 - [Know Your Enemy Redux - Expansion Patches 3.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/56705)
 - [Know Your Enemy Redux - Armors 2.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/55203)
 - [Keyword Item Distributor (KID) 1.3.1](https://www.nexusmods.com/skyrimspecialedition/mods/55728)
+- [JK's Jorrvaskr 1.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/60738)
 
 ### Updated:
 - Fixed Mesh Lighting: 1.6 --&gt; 1.6.2
