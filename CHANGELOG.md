@@ -32,24 +32,49 @@
 - [Quick Loot RE 2.8.6](https://www.nexusmods.com/skyrimspecialedition/mods/21085)
 - [Colored And Animated Celtic Icons for SkyUI 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/23054)
 - [Player Rotation in RaceMenu 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/36095)
-- [Security Overhaul SKSE - Regional Locks 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/62781)
+- [Security Overhaul SKSE - Regional Locks 1.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/62781)
 - [Class Overhaul Re-Imagined 5.2.8](https://www.nexusmods.com/skyrimspecialedition/mods/24808)
 - [Genders Are Boringly Indistinct 8.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/23145)
 - [Evenstar - Minimalistic Standing Stones of Skyrim 1.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/41256)
+- [Missives - Beyond Reach 2.04b](https://www.nexusmods.com/skyrimspecialedition/mods/26788)
+- [Apocalypse - Magic of Skyrim Enhanced 2K Textures 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/55457)
+- [Know Your Enemy Redux 1.3.1](https://www.nexusmods.com/skyrimspecialedition/mods/55045)
+- [Know Your Enemy Redux - Expansion Patches 3.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/56705)
+- [Know Your Enemy Redux - Armors 2.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/55203)
+- [Keyword Item Distributor (KID) 1.3.1](https://www.nexusmods.com/skyrimspecialedition/mods/55728)
 
 ### Updated:
 - Fixed Mesh Lighting: 1.6 --&gt; 1.6.2
 - HIMBO Refits: 4.3 --&gt; 4.3.1
 - Fertility Mode v3 Fixes and Tweaks: 2.31 --&gt; 2.33
-- OSex - New Animations by aceanimations: 0.4.2nexus --&gt; 0.6.1nexus
-- Faster HDT-SMP: 1.18 --&gt; 1.27
+- OSex - New Animations by aceanimations: 0.4.2nexus --&gt; 0.7nexus
+- Faster HDT-SMP: 1.18 --&gt; 1.30
 - Security Overhaul SKSE - Lock Variations: 2.1 --&gt; 3.0
 - Sacrilege: 2.0 --&gt; 2.1
 - Growl - Werebeasts of Skyrim: 2.3 --&gt; 3.0
 - Vokrii: 3.8 --&gt; 3.8.2
+- Serana Dialog Add-On SE: 2.9.2.2 --&gt; 2.9.2.6
+- Whiterun Mesh Fixes: 1.1.5 --&gt; 1.2.5
+- MoreHUD Inventory Edition: 1.0.18 --&gt; 1.0.19
+- A Clear Map of Skyrim and Other Worlds: 2.0 --&gt; 2.1.1
+- BodySlide and Outfit Studio: 5.4.2 --&gt; 5.5.2
+- Wyrmstooth: 1.19.7 --&gt; 1.19.8
+- Animation Motion Revolution: 1.4 --&gt; 1.5
+- Extended Encounters: 1.6.3 --&gt; 1.6.4
+- Assorted Mesh Fixes: 0.44 --&gt; 0.45.1
+- Assorted Mesh Fixes - Parallax Meshes: 0.43 --&gt; 0.45.1
+- eFPS - Exterior FPS Boost: 2.2 --&gt; 2.3
+- JK's Blue Palace: 1.1.1 --&gt; 1.2.1
+- Open World Loot: 1.3.2 --&gt; 1.3.3
+- Aspens Ablaze: 2.32 --&gt; 2.33
+- Know Your Enemy: 9.0.1.1 --&gt; 9.1
+- JK's Haelga's Bunkhouse: 1.0 --&gt; 1.10
+- JK's Understone Keep: 1.1 --&gt; 1.1.1
+- Lots of Patches & Stuff
 
 ### Removed:
 - SkySight Skins - Ultra HD Male Textures
+- Know Your Enemy
 
 ### Fixed/Tweaked:
 - Reran BodySlide for new presets
