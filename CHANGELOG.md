@@ -3,6 +3,7 @@
 ## 1.2 'The Content Update' (In Development)
 
 ### Added:
+#### Content
 - [Amorous Adventures for OStim 3.4.0.1Beta](https://www.nexusmods.com/skyrimspecialedition/mods/48912)
 - [VIGILANT SE 1.6.2](https://www.nexusmods.com/skyrimspecialedition/mods/11849) ([English Voices](https://www.nexusmods.com/skyrimspecialedition/mods/11894))
 - [The Gray Cowl of Nocturnal SE 1.3](https://www.nexusmods.com/skyrimspecialedition/mods/4509) ([HD Texture Pack](https://www.nexusmods.com/skyrimspecialedition/mods/7644))
@@ -13,17 +14,8 @@
 - [Seductive Lips HD SE Edition 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/4864)
 - [Fair Skin Complexion 10.0](https://www.nexusmods.com/skyrimspecialedition/mods/798)
 - [3BA Vanilla Clothes and Armor 1.9.5](https://www.nexusmods.com/skyrimspecialedition/mods/51610)
-- [Kurone CBBE 3BBB BodySlide Preset 1.2](https://www.nexusmods.com/skyrimspecialedition/mods/46560)
-- [EAR CBBE 3BBB BodySlide Preset (Elegant Version) 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/62475)
-- [Dream Angels BodySlide Preset 1.4](https://www.nexusmods.com/skyrimspecialedition/mods/15360)
-- [Greek Goddess BodySlide Preset 4.0](https://www.nexusmods.com/skyrimspecialedition/mods/24201)
-- [Lust of the Gods BodySlide Preset 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/62679)
-- [Bijin Family - CBBE 3BBB (3BA) Bodyslides 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/33315)
-- [Natural And Realistic Bodies - CBBE 3BA Bodyslide Presets 3.0](https://www.nexusmods.com/skyrimspecialedition/mods/13896)
 - [mcgFemaleWalk for Skyrim SE 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/13640)
 - [Tempered Skins for Males - SOS Full Version 2.06](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
-- [Greek God - HIMBO BodySlide Preset 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/54349)
-- [HIMBO Regular Guy BodySlide Preset 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/48743)
 - [Fertility Adventures 0.32](https://www.nexusmods.com/skyrimspecialedition/mods/56750)
 - [L'Amour Rose Animation Pack 0.28](https://www.nexusmods.com/skyrimspecialedition/mods/60722)
 - [Dark Brotherhood For Good Guys 3.1](https://www.nexusmods.com/skyrimspecialedition/mods/519) ([Tweaks and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/40647))
@@ -47,6 +39,25 @@
 - [Keyword Item Distributor (KID) 1.3.1](https://www.nexusmods.com/skyrimspecialedition/mods/55728)
 - [JK's Jorrvaskr 1.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/60738)
 - [TrueHUD - HUD Additions 1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/62775)
+
+#### BodySlide Presets
+- [Kurone CBBE 3BBB BodySlide Preset 1.2](https://www.nexusmods.com/skyrimspecialedition/mods/46560)
+- [EAR CBBE 3BBB BodySlide Preset (Elegant Version) 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/62475)
+- [Dream Angels BodySlide Preset 1.4](https://www.nexusmods.com/skyrimspecialedition/mods/15360)
+- [Greek Goddess BodySlide Preset 4.0](https://www.nexusmods.com/skyrimspecialedition/mods/24201)
+- [Lust of the Gods BodySlide Preset 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/62679)
+- [Bijin Family - CBBE 3BBB (3BA) Bodyslides 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/33315)
+- [Natural And Realistic Bodies - CBBE 3BA Bodyslide Presets 3.0](https://www.nexusmods.com/skyrimspecialedition/mods/13896)
+- [Greek God - HIMBO BodySlide Preset 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/54349)
+- [HIMBO Regular Guy BodySlide Preset 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/48743)
+
+#### RaceMenu Presets
+- [R246 RaceMenu Presets 2.5](https://www.nexusmods.com/skyrimspecialedition/mods/7945)
+- [Khinara Jade SE RaceMenu Preset 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/22027)
+- [Vrayth's RaceMenu Presets 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/41315)
+- [Lucia RaceMenu Preset 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/14420)
+- [Emeri's High Poly RaceMenu Preset Collection](https://www.nexusmods.com/skyrimspecialedition/mods/48818)
+- [A Huge RaceMenu Preset Collection 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/30432)
 
 ### Updated:
 - Fixed Mesh Lighting: 1.6 --&gt; 1.6.2
