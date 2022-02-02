@@ -95,6 +95,7 @@
 - SkySight Skins - Ultra HD Male Textures
 - Know Your Enemy
 - Snazzy Model Ship (integrated in Snazzy Furniture and Clutter Overhaul)
+- Enhanced Solitude SSE (until I get this working with JK's Skyrim)
 
 ### Fixed/Tweaked:
 - Reran BodySlide for new presets
