@@ -94,6 +94,7 @@
 - Fixed missing well in Windhelm
 - Fixed Falkreath carriage spawned in wall
 - Actually provided performance modes of TexGen and DynDOLOD
+- Fixed Immersive Creatures Settings getting reset
 
 
 ## 1.1.1 Hotfix Release (Released @ 25/01/2022)
