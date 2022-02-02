@@ -46,6 +46,7 @@
 - [Know Your Enemy Redux - Armors 2.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/55203)
 - [Keyword Item Distributor (KID) 1.3.1](https://www.nexusmods.com/skyrimspecialedition/mods/55728)
 - [JK's Jorrvaskr 1.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/60738)
+- [TrueHUD - HUD Additions 1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/62775)
 
 ### Updated:
 - Fixed Mesh Lighting: 1.6 --&gt; 1.6.2
@@ -74,6 +75,8 @@
 - Know Your Enemy: 9.0.1.1 --&gt; 9.1
 - JK's Haelga's Bunkhouse: 1.0 --&gt; 1.10
 - JK's Understone Keep: 1.1 --&gt; 1.1.1
+- High Poly NPCs - Wyrmstooth: 1.19.7 --&gt; 1.19.8
+- True Directional Movement: 1.4.3 --&gt; 2.0.0
 - Lots of Patches & Stuff
 
 ### Removed:
