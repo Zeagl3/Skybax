@@ -90,7 +90,7 @@
 - JK's Understone Keep: 1.1 --&gt; 1.1.1
 - High Poly NPCs - Wyrmstooth: 1.19.7 --&gt; 1.19.8
 - True Directional Movement: 1.4.3 --&gt; 2.0.0
-- Snazzy Furniture and Clutter Overhaul: 1.73 --&gt; 2.1
+- Snazzy Furniture and Clutter Overhaul: 1.73 --&gt; 2.1.1
 - Lots of Patches & Stuff
 
 ### Removed:
