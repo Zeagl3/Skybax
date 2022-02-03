@@ -157,6 +157,9 @@
   - [Vixi Talax](https://www.nexusmods.com/skyrimspecialedition/mods/54101)
   - [Ambriel](https://www.nexusmods.com/skyrimspecialedition/mods/969) ([Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2200))
   
+  Some followers (like Auri) spawn their own mount. You need to disable "Allow Horse" in NFF for those, else they will spawn two mounts.
+  ![image](https://i.imgur.com/aZyP50F.png)
+  
   ### Audio and Weather
   
   Skybax uses [Cathedral Weather and Season](https://www.nexusmods.com/skyrimspecialedition/mods/24791) with the [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/39113).
@@ -172,13 +175,13 @@
   If you are having lots of FPS drops, you can try to enable Performance Mode.
   This can be done by disabling the following mods:
   - 05 - GRAPHICS --&gt; DynDOLOD Resources SE
-  - 35 - GENERATED FILES --&gt; TexGen Output
-  - 35 - GENERATED FILES --&gt; DynDOLOD Output
+  - 38 - GENERATED FILES --&gt; TexGen Output
+  - 38 - GENERATED FILES --&gt; DynDOLOD Output
   
   And then enable these mods:
   - 05 - GRAPHICS --&gt; DynDOLOD Resources SE - Performance Mode
-  - 35 - GENERATED FILES --&gt; TexGen Output Performance Mode
-  - 35 - GENERATED FILES --&gt; DynDOLOD Output Performance Mode
+  - 38 - GENERATED FILES --&gt; TexGen Output Performance Mode
+  - 38 - GENERATED FILES --&gt; DynDOLOD Output Performance Mode
   
   ## Creating your Character
   
