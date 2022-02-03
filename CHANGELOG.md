@@ -39,6 +39,8 @@
 - [Keyword Item Distributor (KID) 1.3.1](https://www.nexusmods.com/skyrimspecialedition/mods/55728)
 - [JK's Jorrvaskr 1.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/60738)
 - [TrueHUD - HUD Additions 1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/62775)
+- [Auri Re-Imagined SE 1.0CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/37996) (+ [3BBB (3BA)](https://www.nexusmods.com/skyrimspecialedition/mods/38204))
+- [Lucien Re-Imagined SSE 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/33607)
 
 #### BodySlide Presets
 - [Kurone CBBE 3BBB BodySlide Preset 1.2](https://www.nexusmods.com/skyrimspecialedition/mods/46560)
@@ -96,6 +98,7 @@
 - Know Your Enemy
 - Snazzy Model Ship (integrated in Snazzy Furniture and Clutter Overhaul)
 - Enhanced Solitude SSE (until I get this working with JK's Skyrim)
+- Auri Deluxe
 
 ### Fixed/Tweaked:
 - Reran BodySlide for new presets
