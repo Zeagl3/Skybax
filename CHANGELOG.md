@@ -1,6 +1,6 @@
 # Changelog ([Modlist](https://loadorderlibrary.com/lists/skybax))
 
-## 1.2 'The Content Update' (In Development)
+## 1.2 'The Content Update' (Released @ 03/02/2022)
 
 ### Added:
 #### Content
