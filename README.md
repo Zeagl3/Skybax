@@ -151,13 +151,13 @@
   
   Skybax uses [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653).<br>
   The custom followers that are in the game are:
-  - [INIGO](https://www.nexusmods.com/skyrimspecialedition/mods/1461)
-  - [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035)
-  - [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) ([Deluxe version](https://www.nexusmods.com/skyrimspecialedition/mods/58404))
+  - [INIGO](https://www.nexusmods.com/skyrimspecialedition/mods/1461)([The Suave High Poly Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/38860))
+  - [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035)([Re-Imagined SSE](https://www.nexusmods.com/skyrimspecialedition/mods/33607))
+  - [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) ([Re-Imagined SE](https://www.nexusmods.com/skyrimspecialedition/mods/37996))
   - [Vixi Talax](https://www.nexusmods.com/skyrimspecialedition/mods/54101)
   - [Ambriel](https://www.nexusmods.com/skyrimspecialedition/mods/969) ([Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2200))
   
-  Some followers (like Auri) spawn their own mount. You need to disable "Allow Horse" in NFF for those, else they will spawn two mounts.
+  Some followers (like Auri) spawn their own mount. You need to disable "Allow Horse" in NFF for those, else they will spawn two mounts (and use the wrong one).
   ![image](https://i.imgur.com/aZyP50F.png)
   
   ### Audio and Weather
