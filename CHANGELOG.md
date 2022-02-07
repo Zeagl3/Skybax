@@ -1,5 +1,15 @@
 # Changelog ([Modlist](https://loadorderlibrary.com/lists/skybax))
 
+## 1.3 (In Development)
+
+### Added:
+- [New Statue of Malacath SE 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/63117)
+- [New Statue of Talos SE 1.2.1](https://www.nexusmods.com/skyrimspecialedition/mods/61393)
+- [More Nocturnal Statues 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/57081)
+- [Spellsiphon - Immersive Combat 5.17](https://www.nexusmods.com/skyrimspecialedition/mods/26627)
+- [TK Dodge SE 3.18](https://www.nexusmods.com/skyrimspecialedition/mods/15309)
+
+
 ## 1.2 'The Content Update' (Released @ 03/02/2022)
 
 ### Added:
