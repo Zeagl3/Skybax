@@ -225,4 +225,5 @@
   
   Thank you for downloading and playing Skybax.
   
-  Zeagle out!
+  Zeagle out ![micdrop-small](https://user-images.githubusercontent.com/83012326/152408971-24b5eaf2-6487-44a5-a000-d1c471158e67.png)
+
