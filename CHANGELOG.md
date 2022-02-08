@@ -7,7 +7,7 @@
 - [New Statue of Talos SE 1.2.1](https://www.nexusmods.com/skyrimspecialedition/mods/61393)
 - [More Nocturnal Statues 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/57081)
 - [Spellsiphon - Immersive Combat 5.17](https://www.nexusmods.com/skyrimspecialedition/mods/26627)
-- [TK Dodge SE 3.18](https://www.nexusmods.com/skyrimspecialedition/mods/15309)
+- [The Ultimate Dodge Mod 4.04b]
 
 
 ## 1.2 'The Content Update' (Released @ 03/02/2022)
