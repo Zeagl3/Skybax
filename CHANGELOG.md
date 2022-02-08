@@ -9,7 +9,22 @@
 - [Spellsiphon - Immersive Combat 5.17](https://www.nexusmods.com/skyrimspecialedition/mods/26627)
 - The Ultimate Dodge Mod 4.04b
 - [The Ultimate Dogde Mod ReAnimated 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/33049)
+- [Skyrim 2020 Mines Parallax 8.8](https://www.nexusmods.com/skyrimspecialedition/mods/2347)
 
+### Updated:
+- Snazzy Furniture and Clutter Overhaul SE: 2.1.1 --&gt; 2.1.2
+- Aspens Ablaze: 2.33 --&gt; 2.34
+- AI Overhaul: 1.6.7 --&gt; 1.7
+- Faster HDT-SMP: 1.30 --&gt; 1.36
+- Vanilla Script (micro)Optimizations: 1.14 --&gt; 1.15
+- Serana Dialogue Add-On SE: 2.9.2.6 --&gt; 2.9.2.7
+- Simplicity of Snow: 0.5 --&gt; 0.5.1
+- Security Overhaul SKSE - Add-ons: 0.1.2 --&gt; 0.1.3
+- Embers XD: 2.5 --&gt; 2.5.2
+- Pretty Combat Animations: 1.38 --&gt; 1.41
+- Skyrim 2020 Parallax by Pfuscher: 8.6 --&gt; 8.7
+- OSex - New Animations By aceanimations: 0.7.1nexus --&gt; 0.8.2nexus
+- True Directional Movement: 2.0 --&gt; 2.0.1
 
 ## 1.2 'The Content Update' (Released @ 03/02/2022)
 
