@@ -10,6 +10,8 @@
 - The Ultimate Dodge Mod 4.04b
 - [The Ultimate Dogde Mod ReAnimated 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/33049)
 - [Skyrim 2020 Mines Parallax 8.8](https://www.nexusmods.com/skyrimspecialedition/mods/2347)
+- [Skyrim Skill Uncapper 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/8889)
+- [Static Skill Leveling 2.1](https://www.nexusmods.com/skyrimspecialedition/mods/30410)
 
 ### Updated:
 - Snazzy Furniture and Clutter Overhaul SE: 2.1.1 --&gt; 2.1.2
