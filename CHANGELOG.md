@@ -14,6 +14,12 @@
 - [Static Skill Leveling 2.1](https://www.nexusmods.com/skyrimspecialedition/mods/30410)
 - [Hide Your Quests 1.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/50125)
 - [A Bow's Whisper - Bow Sound Overhaul 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/47437)
+- [Bathing Beauties or Beefcake Luxury Suite 3.2B](https://www.loverslab.com/files/file/20483-bathing-beauties-or-beefcake-luxury-suite/)
+- [Bathing Beauties or Beefcake Luxury Suite Female NPCs Deluxe 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/64047)
+- [Honed Metal - NPC Crafting and Enchanting Services 1.22](https://www.nexusmods.com/skyrimspecialedition/mods/61015)
+- [Frozen in Time - Definitely Not Another Snow Elf Waifu Mod 0.23](https://www.nexusmods.com/skyrimspecialedition/mods/39732)
+- [Frozen in Time - Snow Elf Waifu Replacer 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/57491)
+- [Maelstrom - Fully Voiced Follower and Quest Mod 1.02SE](https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-quest-mod-se/)
 
 ### Updated:
 - Snazzy Furniture and Clutter Overhaul SE: 2.1.1 --&gt; 2.1.2
@@ -27,7 +33,8 @@
 - Embers XD: 2.5 --&gt; 2.5.2
 - Pretty Combat Animations: 1.38 --&gt; 1.41
 - Skyrim 2020 Parallax by Pfuscher: 8.6 --&gt; 8.7
-- OSex - New Animations By aceanimations: 0.7.1nexus --&gt; 0.8.2nexus
+- OSex - New Animations By aceanimations: 0.7.1nexus --&gt; 0.10nexus
+- OVoice: 1.2 --&gt 1.6
 - True Directional Movement: 2.0 --&gt; 2.0.1
 
 ## 1.2 'The Content Update' (Released @ 03/02/2022)
