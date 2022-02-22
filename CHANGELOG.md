@@ -36,6 +36,8 @@
 - OSex - New Animations By aceanimations: 0.7.1nexus --&gt; 0.10nexus
 - OVoice: 1.2 --&gt 1.6
 - True Directional Movement: 2.0 --&gt; 2.0.1
+- DynDOLOD 3.00: Alpha-65 --&gt; Alpha-74
+- DynDOLOD Resources SE 3 : Alpha-19 --&gt; Alpha-21
 
 ## 1.2 'The Content Update' (Released @ 03/02/2022)
 
