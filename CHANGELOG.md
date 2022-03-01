@@ -20,25 +20,59 @@
 - [Frozen in Time - Definitely Not Another Snow Elf Waifu Mod 0.23](https://www.nexusmods.com/skyrimspecialedition/mods/39732)
 - [Frozen in Time - Snow Elf Waifu Replacer 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/57491)
 - [Maelstrom - Fully Voiced Follower and Quest Mod 1.02SE](https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-quest-mod-se/)
+- [Water for ENB 1.54](https://www.nexusmods.com/skyrimspecialedition/mods/37061)
+- [Vigilant - Character Overhaul 2.5.1](https://www.nexusmods.com/skyrimspecialedition/mods/22146)
+- [Vigilant - Delayed Start 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/57961)
+- [Lux - Via 1.3](https://www.nexusmods.com/skyrimspecialedition/mods/63588)
+- [ENB Light 0.95RC2](https://www.nexusmods.com/skyrimspecialedition/mods/22574)
+- [Nuala The Fractured Princess 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/57657)
+
+### Removed:
+- Mannequin Management
 
 ### Updated:
 - Snazzy Furniture and Clutter Overhaul SE: 2.1.1 --&gt; 2.1.2
 - Aspens Ablaze: 2.33 --&gt; 2.34
 - AI Overhaul: 1.6.7 --&gt; 1.7
 - Faster HDT-SMP: 1.30 --&gt; 1.36
-- Vanilla Script (micro)Optimizations: 1.14 --&gt; 1.15
+- Vanilla Script (micro)Optimizations: 1.14 --&gt; 1.15a
 - Serana Dialogue Add-On SE: 2.9.2.6 --&gt; 2.9.2.7
 - Simplicity of Snow: 0.5 --&gt; 0.5.1
-- Security Overhaul SKSE - Add-ons: 0.1.2 --&gt; 0.1.3
+- Security Overhaul SKSE - Add-ons: 0.1.2 --&gt; 0.1.4
 - Embers XD: 2.5 --&gt; 2.5.2
 - Pretty Combat Animations: 1.38 --&gt; 1.41
 - Skyrim 2020 Parallax by Pfuscher: 8.6 --&gt; 8.7
-- OSex - New Animations By aceanimations: 0.7.1nexus --&gt; 0.10nexus
+- OSex - New Animations By aceanimations: 0.7.1nexus --&gt; 0.11nexus
 - OVoice: 1.2 --&gt 1.6
 - True Directional Movement: 2.0 --&gt; 2.0.1
 - DynDOLOD 3.00: Alpha-65 --&gt; Alpha-74
 - DynDOLOD Resources SE 3 : Alpha-19 --&gt; Alpha-21
 - Fixed Mesh Lighting: 1.6.2 --&gt; 1.7
+- CBBE 3BA: 2.18 --&gt; 2.21
+- CBPC - Physics with Collisions: 1.4.15 --&gt; 1.4.18
+- Scrambled Bugs: 14.0 --&gt; 15.0
+- Bug Fixes SSE: 3.0 --&gt; 4.0.1
+- Actor Limit Fix: 2.0 --&gt; 3.0.1
+- Embers XD: 2.5.2 --&gt; 2.5.5
+- BethINI: 3.5 --&gt; 3.6
+- Favor Jobs Overhaul: 1.4 --&gt; 1.5.1
+- Aspens Ablaze: 2.34 --&gt; 2.35
+- JK's Guild HQ Interiors Patch Collection: 1.2.4 --&gt; 1.5.1
+- JK's Interiors Patch Collection: 5.6 --&gt; 5.7.1
+- Lux: 3.9 --&gt; 4.0.1
+- True Directional Movement: 2.0.1 --&gt; 2.1.1
+- TrueHUD: 1.0 --&gt; 1.0.3
+- Completionist: 3.5c --&gt; 3.7.1.5-R3
+- JK's Understone Keep: 1.1.1 --&gt; 1.1.2
+- JK's Haelga's Bunkhouse: 1.1 --&gt; 1.1.1
+- JK's Jorrvaskr: 1.1 --&gt; 1.1.1
+- JK's Blue Palace: 1.2.1 --&gt; 1.2.2
+- eFPS - Official Patch Hub: 1.5 --&gt; 1.6
+- KS Hairdos SSE: 1.8 --&gt: 1.9
+- L'Amour Rose Animation Pack: 0.28 --&gt; 0.40
+- The Choice is Yours: 2.3 --&gt; 2.4
+- True Hunter: 4.0 --&gt; 4.1
+- Aspens Ablaze DynDOLOD 3: 2.0.1 --&gt; 2.0.2
 
 ## 1.2 'The Content Update' (Released @ 03/02/2022)
 
