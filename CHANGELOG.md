@@ -26,7 +26,6 @@
 - [Lux - Via 1.3](https://www.nexusmods.com/skyrimspecialedition/mods/63588)
 - [ENB Light 0.95RC2](https://www.nexusmods.com/skyrimspecialedition/mods/22574)
 - [Nuala The Fractured Princess 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/57657)
-- [Breezehome by Lupus 1.2](https://www.nexusmods.com/skyrimspecialedition/mods/9626)
 
 ### Removed:
 - Mannequin Management
