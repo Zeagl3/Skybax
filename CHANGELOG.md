@@ -26,9 +26,11 @@
 - [Lux - Via 1.3](https://www.nexusmods.com/skyrimspecialedition/mods/63588)
 - [ENB Light 0.95RC2](https://www.nexusmods.com/skyrimspecialedition/mods/22574)
 - [Nuala The Fractured Princess 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/57657)
+- [Breezehome by Lupus 1.2](https://www.nexusmods.com/skyrimspecialedition/mods/9626)
 
 ### Removed:
 - Mannequin Management
+- Eli's Breezehome
 
 ### Updated:
 - Snazzy Furniture and Clutter Overhaul SE: 2.1.1 --&gt; 2.1.2
@@ -73,6 +75,10 @@
 - The Choice is Yours: 2.3 --&gt; 2.4
 - True Hunter: 4.0 --&gt; 4.1
 - Aspens Ablaze DynDOLOD 3: 2.0.1 --&gt; 2.0.2
+
+### Fixed:
+- CTD when entering the Blue Palace
+
 
 ## 1.2 'The Content Update' (Released @ 03/02/2022)
 
