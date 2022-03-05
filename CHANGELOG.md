@@ -16,7 +16,7 @@
 - [A Bow's Whisper - Bow Sound Overhaul 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/47437)
 - [Bathing Beauties or Beefcake Luxury Suite 3.2B](https://www.loverslab.com/files/file/20483-bathing-beauties-or-beefcake-luxury-suite/)
 - [Bathing Beauties or Beefcake Luxury Suite Female NPCs Deluxe 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/64047)
-- [Honed Metal - NPC Crafting and Enchanting Services 1.22](https://www.nexusmods.com/skyrimspecialedition/mods/61015)
+- [Honed Metal - NPC Crafting and Enchanting Services 1.23](https://www.nexusmods.com/skyrimspecialedition/mods/61015)
 - [Frozen in Time - Definitely Not Another Snow Elf Waifu Mod 0.23](https://www.nexusmods.com/skyrimspecialedition/mods/39732)
 - [Frozen in Time - Snow Elf Waifu Replacer 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/57491)
 - [Maelstrom - Fully Voiced Follower and Quest Mod 1.02SE](https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-quest-mod-se/)
@@ -26,6 +26,7 @@
 - [Lux - Via 1.3](https://www.nexusmods.com/skyrimspecialedition/mods/63588)
 - [ENB Light 0.95RC2](https://www.nexusmods.com/skyrimspecialedition/mods/22574)
 - [Nuala The Fractured Princess 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/57657)
+- [I'm Walkin' Here 1.5.0](https://www.nexusmods.com/skyrimspecialedition/mods/27742)
 
 ### Removed:
 - Mannequin Management
@@ -43,17 +44,17 @@
 - Embers XD: 2.5 --&gt; 2.5.2
 - Pretty Combat Animations: 1.38 --&gt; 1.41
 - Skyrim 2020 Parallax by Pfuscher: 8.6 --&gt; 8.7
-- OSex - New Animations By aceanimations: 0.7.1nexus --&gt; 0.11nexus
+- OSex - New Animations By aceanimations: 0.7.1nexus --&gt; 0.12nexus
 - OVoice: 1.2 --&gt 1.6
 - True Directional Movement: 2.0 --&gt; 2.0.1
 - DynDOLOD 3.00: Alpha-65 --&gt; Alpha-74
 - DynDOLOD Resources SE 3 : Alpha-19 --&gt; Alpha-21
-- Fixed Mesh Lighting: 1.6.2 --&gt; 1.7
-- CBBE 3BA: 2.18 --&gt; 2.21
+- Fixed Mesh Lighting: 1.6.2 --&gt; 1.7.1
+- CBBE 3BA: 2.18 --&gt; 2.22
 - CBPC - Physics with Collisions: 1.4.15 --&gt; 1.4.18
-- Scrambled Bugs: 14.0 --&gt; 15.0
-- Bug Fixes SSE: 3.0 --&gt; 4.0.1
-- Actor Limit Fix: 2.0 --&gt; 3.0.1
+- Scrambled Bugs: 14.0 --&gt; 16.0
+- Bug Fixes SSE: 3.0 --&gt; 5.0
+- Actor Limit Fix: 2.0 --&gt; 4.0
 - Embers XD: 2.5.2 --&gt; 2.5.5
 - BethINI: 3.5 --&gt; 3.6
 - Favor Jobs Overhaul: 1.4 --&gt; 1.5.1
@@ -74,6 +75,10 @@
 - The Choice is Yours: 2.3 --&gt; 2.4
 - True Hunter: 4.0 --&gt; 4.1
 - Aspens Ablaze DynDOLOD 3: 2.0.1 --&gt; 2.0.2
+- Paarthurnax - Quest Expansion: 1.02 --&gt; 1.10
+- Fertility Adventures: 0.32 --&gt; 0.33
+- Fertitity Adventures - Child AddOn: 0.02 --&gt; 0.03
+- Tavern AI Fix: 1.1d --&gt; 1.2
 
 ### Fixed:
 - CTD when entering the Blue Palace
