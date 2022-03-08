@@ -27,6 +27,7 @@
 - [ENB Light 0.95RC2](https://www.nexusmods.com/skyrimspecialedition/mods/22574)
 - [Nuala The Fractured Princess 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/57657)
 - [I'm Walkin' Here 1.5.0](https://www.nexusmods.com/skyrimspecialedition/mods/27742)
+- [Disease Descriptions for the Immersive Adventurer 2.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/26992)
 
 ### Removed:
 - Mannequin Management
@@ -41,14 +42,14 @@
 - Serana Dialogue Add-On SE: 2.9.2.6 --&gt; 2.9.2.7
 - Simplicity of Snow: 0.5 --&gt; 0.5.1
 - Security Overhaul SKSE - Add-ons: 0.1.2 --&gt; 0.1.4
-- Embers XD: 2.5 --&gt; 2.5.2
+- Embers XD: 2.5 --&gt; 2.5.6
 - Pretty Combat Animations: 1.38 --&gt; 1.41
 - Skyrim 2020 Parallax by Pfuscher: 8.6 --&gt; 8.7
 - OSex - New Animations By aceanimations: 0.7.1nexus --&gt; 0.12nexus
 - OVoice: 1.2 --&gt 1.6
 - True Directional Movement: 2.0 --&gt; 2.0.1
-- DynDOLOD 3.00: Alpha-65 --&gt; Alpha-74
-- DynDOLOD Resources SE 3 : Alpha-19 --&gt; Alpha-21
+- DynDOLOD 3.00: Alpha-65 --&gt; Alpha-77
+- DynDOLOD Resources SE 3 : Alpha-19 --&gt; Alpha-22
 - Fixed Mesh Lighting: 1.6.2 --&gt; 1.7.1
 - CBBE 3BA: 2.18 --&gt; 2.22
 - CBPC - Physics with Collisions: 1.4.15 --&gt; 1.4.18
@@ -64,7 +65,7 @@
 - Lux: 3.9 --&gt; 4.0.1
 - True Directional Movement: 2.0.1 --&gt; 2.1.1
 - TrueHUD: 1.0 --&gt; 1.0.3
-- Completionist: 3.5c --&gt; 3.7.1.5-R3
+- Completionist: 3.5c --&gt; 3.7.1.7-R2
 - JK's Understone Keep: 1.1.1 --&gt; 1.1.2
 - JK's Haelga's Bunkhouse: 1.1 --&gt; 1.1.1
 - JK's Jorrvaskr: 1.1 --&gt; 1.1.1
@@ -79,6 +80,9 @@
 - Fertility Adventures: 0.32 --&gt; 0.33
 - Fertitity Adventures - Child AddOn: 0.02 --&gt; 0.03
 - Tavern AI Fix: 1.1d --&gt; 1.2
+- Navigator - Navmesh Fixes: 1.1.3 --&gt; 1.1.4
+- Complete Crafting Overhaul Remastered: 2.2 --&gt; 2.3
+- Legacy of the Dragonborn - The Curators Companion: 6.1.4 --&gt; 6.1.5
 
 ### Fixed:
 - CTD when entering the Blue Palace
