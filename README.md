@@ -175,13 +175,13 @@
   If you are having lots of FPS drops, you can try to enable Performance Mode.
   This can be done by disabling the following mods:
   - 05 - GRAPHICS --&gt; DynDOLOD Resources SE
-  - 38 - GENERATED FILES --&gt; TexGen Output
-  - 38 - GENERATED FILES --&gt; DynDOLOD Output
+  - 39 - GENERATED FILES --&gt; TexGen Output
+  - 39 - GENERATED FILES --&gt; DynDOLOD Output
   
   And then enable these mods:
   - 05 - GRAPHICS --&gt; DynDOLOD Resources SE - Performance Mode
-  - 38 - GENERATED FILES --&gt; TexGen Output Performance Mode
-  - 38 - GENERATED FILES --&gt; DynDOLOD Output Performance Mode
+  - 39 - GENERATED FILES --&gt; TexGen Output Performance Mode
+  - 39 - GENERATED FILES --&gt; DynDOLOD Output Performance Mode
   
   ## Creating your Character
   
