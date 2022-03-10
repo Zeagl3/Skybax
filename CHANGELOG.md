@@ -1,6 +1,6 @@
 # Changelog ([Modlist](https://loadorderlibrary.com/lists/skybax))
 
-## 1.3 (In Development)
+## 1.3 (Released @ 10/03/2022)
 
 ### Added:
 - [New Statue of Malacath SE 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/63117)
