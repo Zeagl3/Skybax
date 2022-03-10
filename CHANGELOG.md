@@ -28,6 +28,7 @@
 - [Nuala The Fractured Princess 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/57657)
 - [I'm Walkin' Here 1.5.0](https://www.nexusmods.com/skyrimspecialedition/mods/27742)
 - [Disease Descriptions for the Immersive Adventurer 2.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/26992)
+- [OStim - OSound 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/64149)
 
 ### Removed:
 - Mannequin Management
@@ -37,7 +38,7 @@
 - Snazzy Furniture and Clutter Overhaul SE: 2.1.1 --&gt; 2.1.2
 - Aspens Ablaze: 2.33 --&gt; 2.34
 - AI Overhaul: 1.6.7 --&gt; 1.7
-- Faster HDT-SMP: 1.30 --&gt; 1.36
+- Faster HDT-SMP: 1.30 --&gt; 1.38
 - Vanilla Script (micro)Optimizations: 1.14 --&gt; 1.15a
 - Serana Dialogue Add-On SE: 2.9.2.6 --&gt; 2.9.2.7
 - Simplicity of Snow: 0.5 --&gt; 0.5.1
@@ -53,9 +54,9 @@
 - Fixed Mesh Lighting: 1.6.2 --&gt; 1.7.1
 - CBBE 3BA: 2.18 --&gt; 2.22
 - CBPC - Physics with Collisions: 1.4.15 --&gt; 1.4.18
-- Scrambled Bugs: 14.0 --&gt; 16.0
-- Bug Fixes SSE: 3.0 --&gt; 5.0
-- Actor Limit Fix: 2.0 --&gt; 4.0
+- Scrambled Bugs: 14.0 --&gt; 17.0
+- Bug Fixes SSE: 3.0 --&gt; 6.0
+- Actor Limit Fix: 2.0 --&gt; 5.0
 - Embers XD: 2.5.2 --&gt; 2.5.5
 - BethINI: 3.5 --&gt; 3.6
 - Favor Jobs Overhaul: 1.4 --&gt; 1.5.1
@@ -82,7 +83,9 @@
 - Tavern AI Fix: 1.1d --&gt; 1.2
 - Navigator - Navmesh Fixes: 1.1.3 --&gt; 1.1.4
 - Complete Crafting Overhaul Remastered: 2.2 --&gt; 2.3
+- Legacy of the Dragonborn SSE: 5.5.5 --&gt; 5.6.0
 - Legacy of the Dragonborn - The Curators Companion: 6.1.4 --&gt; 6.1.5
+- Reliquary of Myth - Artifact Overhaul: 4.4.6 --&gt; 4.4.7
 
 ### Fixed:
 - CTD when entering the Blue Palace
