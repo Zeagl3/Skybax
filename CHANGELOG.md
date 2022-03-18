@@ -1,5 +1,11 @@
 # Changelog ([Modlist](https://loadorderlibrary.com/lists/skybax))
 
+## 1.3.1 (In Development)
+
+### Added:
+- [Sapphire's Elegance (CBBE 3BA BodySlide Preset) 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/51352)
+
+
 ## 1.3 (Released @ 10/03/2022)
 
 ### Added:
