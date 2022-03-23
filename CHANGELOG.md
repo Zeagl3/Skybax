@@ -4,6 +4,12 @@
 
 ### Added:
 - [Sapphire's Elegance (CBBE 3BA BodySlide Preset) 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/51352)
+- [RaceMenu Undress 1.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/56437)
+- [Skyrim Unbound Reborn (Alternate Start) 1.7.1](https://www.nexusmods.com/skyrimspecialedition/mods/27962)
+
+### Removed:
+- Alternate Start - Live Another Life
+
 
 
 ## 1.3 (Released @ 10/03/2022)
