@@ -33,23 +33,23 @@
 - Open World Loot: 1.3.3 --&gt; 1.3.4
 - Headhunter - Bounties Redone: 1.20 --&gt; 1.30
 - Quests Are In Skyrim: 1.2 --&gt; 1.3
-- Complete Crafting Overhaul Remastered: 2.3 --&gt. 2.4
+- Complete Crafting Overhaul Remastered: 2.3 --&gt; 2.4
 - Legacy of the Dragonborn: 5.6 --&gt; 5.6.2
 - Legacy of the Dragonborn - The Curators Companion: 6.1.5 --&gt; 6.1.6
 - powerofthree's Tweaks: 1.5.1 --&gt; 1.6.0
-- OSex - New Animations by aceanimations: 0.12nexus --&gt: 0.14nexus
+- OSex - New Animations by aceanimations: 0.12nexus --&gt; 0.14nexus
 - OPrivacy: 1.6 --&gt; 1.7a
 - Land of Vominheim SE - Bathing Rooms: 1.7 --&gt; 1.92
-- Skyrim 2020 Parallax by Pfuscher: 8.7 --&gt: 8.8.1
+- Skyrim 2020 Parallax by Pfuscher: 8.7 --&gt; 8.8.1
 - A Clear Map of Skyrim and Other Worlds: 2.1.1 --&gt; 3.0
 - Highly Improved Male Body Overhaul -HIMBO-: 4.3.1 --&gt; 4.3.2 
 - Navigator - Navmesh Fixes: 1.1.4 --&gt; 1.1.6
-- LOOT: 0.18 --&gt: 0.18.2
+- LOOT: 0.18 --&gt; 0.18.2
 - CBPC - Physics with Collisions: 1.4.18 --&gt; 1.5.0
 - True Directional Movement: 2.1.1 --&gt; 2.2.1
 - TrueHUD: 1.0.3 --&gt; 1.1.0
 - Windhelm Fake Windows Fix: 2.2 --&gt; 2.31
-- DynDOLOD 3: Alpha-77 --&gt: Alpha-84
+- DynDOLOD 3: Alpha-77 --&gt; Alpha-84
 - DynDOLOD Resources: Alpha-22 --&gt; Alpha-23
 
 ### Fixed:
