@@ -14,7 +14,7 @@
 - [True Teacher Durnehviir - Skyrim Unbound Reborn 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/44969)
 - [Legacy of the Dragonborn - Perk Menus 0.6](https://www.nexusmods.com/skyrimspecialedition/mods/47028)
 - [College of Winterhold Quest Start Fixes 0.3](https://www.nexusmods.com/skyrimspecialedition/mods/53817)
-- [Skyrim 2020 Parallax by Pfuscher - Parallax Meshes Part 1 - Most Cities 8.8](https://www.nexusmods.com/skyrimspecialedition/mods/2347)
+- [Skyrim 2020 Parallax by Pfuscher - Parallax Meshes Part 1 - Most Cities 8.8.1](https://www.nexusmods.com/skyrimspecialedition/mods/2347)
 - [Skyrim 2020 Parallax by Pfuscher - Parallax Meshes Part 2 - Windhelm Whinterhold 8.8](https://www.nexusmods.com/skyrimspecialedition/mods/2347)
 - [Skyrim 2020 Parallax by Pfuscher - Parallax Meshes Part 3 - Whiterun 8.8](https://www.nexusmods.com/skyrimspecialedition/mods/2347)
 - [Atlas Map Markers 2.1](https://www.nexusmods.com/skyrimspecialedition/mods/24104)
@@ -37,18 +37,22 @@
 - Legacy of the Dragonborn: 5.6 --&gt; 5.6.2
 - Legacy of the Dragonborn - The Curators Companion: 6.1.5 --&gt; 6.1.6
 - powerofthree's Tweaks: 1.5.1 --&gt; 1.6.0
-- OSex - New Animations by aceanimations: 0.12nexus --&gt; 0.14nexus
+- OSex - New Animations by aceanimations: 0.12nexus --&gt; 0.15nexus
 - OPrivacy: 1.6 --&gt; 1.7a
 - Land of Vominheim SE - Bathing Rooms: 1.7 --&gt; 1.92
 - Skyrim 2020 Parallax by Pfuscher: 8.7 --&gt; 8.8.1
 - A Clear Map of Skyrim and Other Worlds: 2.1.1 --&gt; 3.0
-- Highly Improved Male Body Overhaul -HIMBO-: 4.3.1 --&gt; 4.3.2 
+- Highly Improved Male Body Overhaul -HIMBO-: 4.3.1 --&gt; 4.4.0
+- CBBE 3BA: 2.22 --&gt; 2.30
 - Navigator - Navmesh Fixes: 1.1.4 --&gt; 1.1.6
 - LOOT: 0.18 --&gt; 0.18.2
 - CBPC - Physics with Collisions: 1.4.18 --&gt; 1.5.0
 - True Directional Movement: 2.1.1 --&gt; 2.2.1
-- TrueHUD: 1.0.3 --&gt; 1.1.0
+- TrueHUD: 1.0.3 --&gt; 1.1.4
 - Windhelm Fake Windows Fix: 2.2 --&gt; 2.31
+- JK's Jorrvaskr: 1.1.1 --&gt; 1.1.2
+- 3D Solitude Market Trellis: 1.0 --&gt; 2.0
+- WiZkiD Signs: 2.3 --&gt; 2.4
 - DynDOLOD 3: Alpha-77 --&gt; Alpha-84
 - DynDOLOD Resources: Alpha-22 --&gt; Alpha-23
 
