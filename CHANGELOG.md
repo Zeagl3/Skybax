@@ -19,6 +19,7 @@
 - [Skyrim 2020 Parallax by Pfuscher - Parallax Meshes Part 3 - Whiterun 8.8](https://www.nexusmods.com/skyrimspecialedition/mods/2347)
 - [Atlas Map Markers 2.1](https://www.nexusmods.com/skyrimspecialedition/mods/24104)
 - [Unique Map Weather Framework 1.02](https://www.nexusmods.com/skyrimspecialedition/mods/59919)
+- xLODGen 0.93
 
 ### Removed:
 - Alternate Start - Live Another Life
