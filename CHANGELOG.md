@@ -53,6 +53,7 @@
 - JK's Jorrvaskr: 1.1.1 --&gt; 1.1.2
 - 3D Solitude Market Trellis: 1.0 --&gt; 2.0
 - WiZkiD Signs: 2.3 --&gt; 2.4
+- Assorted Mesh Fixes: 0.45.1 --&gt; 0.46
 - DynDOLOD 3: Alpha-77 --&gt; Alpha-84
 - DynDOLOD Resources: Alpha-22 --&gt; Alpha-23
 
