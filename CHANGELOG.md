@@ -56,7 +56,7 @@
 - WiZkiD Signs: 2.3 --&gt; 2.4
 - Assorted Mesh Fixes: 0.45.1 --&gt; 0.46
 - Realistic AI Detection: 2.0 --&gt; 3.0
-- DynDOLOD 3: Alpha-77 --&gt; Alpha-84
+- DynDOLOD 3: Alpha-77 --&gt; Alpha-85
 - DynDOLOD Resources: Alpha-22 --&gt; Alpha-23
 
 ### Fixed:
