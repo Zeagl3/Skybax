@@ -21,6 +21,7 @@
 - [Unique Map Weather Framework 1.02](https://www.nexusmods.com/skyrimspecialedition/mods/59919)
 - [Better Courier 1.7.1](https://www.nexusmods.com/skyrimspecialedition/mods/40709)
 - [Courier Stays In Skyrim 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/40931)
+- [Better Dynamic Majestic Mountains 10.0](https://www.nexusmods.com/skyrimspecialedition/mods/20102)
 - xLODGen 0.93
 
 ### Removed:
@@ -29,6 +30,8 @@
 - Realistic RS Children
 - True Teacher Durnehviir
 - Courier Delivers to NPCs (integrated in Better Courier)
+- A Quality World Map (not needed because A Clear Map of Skyrim and Other Worlds)
+- Dynamic Snow for Map
 
 ### Updated:
 - iWant Widgets: 1.28 --&gt; 1.29
