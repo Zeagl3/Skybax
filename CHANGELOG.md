@@ -22,6 +22,14 @@
 - [Better Courier 1.7.1](https://www.nexusmods.com/skyrimspecialedition/mods/40709)
 - [Courier Stays In Skyrim 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/40931)
 - [Better Dynamic Majestic Mountains 10.0](https://www.nexusmods.com/skyrimspecialedition/mods/20102)
+- [High Poly NPC Overhaul - OBIS SE 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/40360)
+- [High Poly NPC Overhaul - Immersive College NPCs 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/40319)
+- [High Poly NPC Overhaul - Legacy of the Dragonborn 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/40316)
+- [High Poly NPC Overhaul - The Great Village of Mixwater Mill 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/39953)
+- [High Poly NPC Overhaul - The Great Village of Old Hroldan 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/39952)
+- [High Poly NPC Overhaul - The Great Town of Shor's Stone 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/39445)
+- [High Poly NPC Overhaul - The Great Town of Karthwasten 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/39420)
+- [High Poly NPC Overhaul - JK's Skyrim 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/39181)
 - xLODGen 0.93
 
 ### Removed:
