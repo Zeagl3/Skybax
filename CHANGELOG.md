@@ -3,6 +3,7 @@
 ## 1.4 (In Development)
 
 ### Added:
+- [Enhanced Volumetric Lighting and Shadows (EVLaS) 1.3](https://www.nexusmods.com/skyrimspecialedition/mods/63725)
 - [Sapphire's Elegance (CBBE 3BA BodySlide Preset) 1.1](https://www.nexusmods.com/skyrimspecialedition/mods/51352)
 - [RaceMenu Undress 1.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/56437)
 - [Skyrim Unbound Reborn (Alternate Start) 1.7.1](https://www.nexusmods.com/skyrimspecialedition/mods/27962)
@@ -33,6 +34,7 @@
 - xLODGen 0.93
 
 ### Removed:
+- Dynamic Volumetric Lighting and Sun Shadows
 - Alternate Start - Live Another Life
 - RS Children
 - Realistic RS Children
