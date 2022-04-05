@@ -81,7 +81,7 @@
 - Water for ENB: 1.54 --&gt; 1.61
 - DynDOLOD 3: Alpha-77 --&gt; Alpha-86
 - DynDOLOD Resources: Alpha-22 --&gt; Alpha-24
-- ENBSeries: 0.466 --&gt; 0.469
+- ENBSeries: 0.466 --&gt; 0.473
 
 ### Fixed:
 - No more naked children
