@@ -76,6 +76,8 @@
 - Static Mesh Improvement Mod Improvement Mod: 1.3 --&gt; 1.4
 - eFPS - Official Patch Hub: 1.6 --&gt; 1.7a
 - Experience: 2.0 --gt; 2.1
+- Afterlife - Resurrected: 1.1.1 --&gt; 1.2.0
+- Common Clothes and Armors: 1.1 --&gt; 2.0
 - Water for ENB: 1.54 --&gt; 1.61
 - DynDOLOD 3: Alpha-77 --&gt; Alpha-86
 - DynDOLOD Resources: Alpha-22 --&gt; Alpha-24
