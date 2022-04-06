@@ -31,6 +31,7 @@
 - [High Poly NPC Overhaul - The Great Town of Shor's Stone 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/39445)
 - [High Poly NPC Overhaul - The Great Town of Karthwasten 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/39420)
 - [High Poly NPC Overhaul - JK's Skyrim 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/39181)
+- [Bandit Lines Expansion 1.03](https://www.nexusmods.com/skyrimspecialedition/mods/63733)
 - xLODGen 0.93
 
 ### Removed:
@@ -42,6 +43,7 @@
 - Courier Delivers to NPCs (integrated in Better Courier)
 - A Quality World Map (not needed because A Clear Map of Skyrim and Other Worlds)
 - Dynamic Snow for Map
+- Moss Rocks (Included in Majestic Mountains)
 
 ### Updated:
 - iWant Widgets: 1.28 --&gt; 1.29
