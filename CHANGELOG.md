@@ -36,6 +36,9 @@
 - [Common Clothes (By FranklinZunge for SSE) .99](https://www.nexusmods.com/skyrimspecialedition/mods/5063)
 - [Brigandage by FranklinZunge for SSE 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/5933)
 - [FranklinZunge Collection SSE 3BA Bodyslide 2.4](https://www.nexusmods.com/skyrimspecialedition/mods/28541)
+- [Gesture Animation Remix 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/64420)
+- [NPC Animation Remix 1.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/63471)
+- [More to Say 8.0.3](https://www.nexusmods.com/skyrimspecialedition/mods/22622)
 - xLODGen 0.93
 
 ### Removed:
