@@ -85,7 +85,7 @@
 - Afterlife - Resurrected: 1.1.1 --&gt; 1.2.0
 - Common Clothes and Armors: 1.1 --&gt; 2.0
 - Water for ENB: 1.54 --&gt; 1.61
-- DynDOLOD 3: Alpha-77 --&gt; Alpha-86
+- DynDOLOD 3: Alpha-77 --&gt; Alpha-87
 - DynDOLOD Resources: Alpha-22 --&gt; Alpha-24
 - ENBSeries: 0.466 --&gt; 0.473
 
