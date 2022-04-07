@@ -32,6 +32,10 @@
 - [High Poly NPC Overhaul - The Great Town of Karthwasten 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/39420)
 - [High Poly NPC Overhaul - JK's Skyrim 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/39181)
 - [Bandit Lines Expansion 1.03](https://www.nexusmods.com/skyrimspecialedition/mods/63733)
+- [Nyx Follower 1.2.1](https://www.nexusmods.com/skyrimspecialedition/mods/50158)
+- [Common Clothes (By FranklinZunge for SSE) .99](https://www.nexusmods.com/skyrimspecialedition/mods/5063)
+- [Brigandage by FranklinZunge for SSE 1.0](https://www.nexusmods.com/skyrimspecialedition/mods/5933)
+- [FranklinZunge Collection SSE 3BA Bodyslide 2.4](https://www.nexusmods.com/skyrimspecialedition/mods/28541)
 - xLODGen 0.93
 
 ### Removed:
