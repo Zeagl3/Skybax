@@ -69,11 +69,10 @@
 - Skyrim 2020 Parallax by Pfuscher: 8.7 --&gt; 8.8.1
 - A Clear Map of Skyrim and Other Worlds: 2.1.1 --&gt; 3.1
 - Highly Improved Male Body Overhaul -HIMBO-: 4.3.1 --&gt; 4.4.0
-- CBBE 3BA: 2.22 --&gt; 2.30
+- CBBE 3BA: 2.22 --&gt; 2.31
 - Navigator - Navmesh Fixes: 1.1.4 --&gt; 1.1.6
 - LOOT: 0.18 --&gt; 0.18.2
 - CBPC - Physics with Collisions: 1.4.18 --&gt; 1.5.0
-- CBBE 3BA: 2.30 --&gt; 2.31
 - True Directional Movement: 2.1.1 --&gt; 2.2.1
 - TrueHUD: 1.0.3 --&gt; 1.1.4
 - Windhelm Fake Windows Fix: 2.2 --&gt; 2.31
