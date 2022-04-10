@@ -23,6 +23,9 @@
   - [How to start up Skybax](#how-to-start-up-skybax)
   - [Updating](#updating)
   - [Mods you should know about](#mods-you-should-know-about)
+	- [Skyrim Unbound](#skyrim-unbound)
+	  - [Dragons and Main Quest](#dragons-and-main-quest)
+	  - [Whiterun Thaneship](#whiterun-thaneship)
     - [Quest and Encounter Mods](#quest-and-encounter-mods)
     - [Followers](#followers)
     - [Audio and Weather](#audio-and-weather)
@@ -134,6 +137,31 @@
   
   ## Mods you should know about
   
+  ### Skyrim Unbound
+  
+  Skyrim Unbound is an alternate start mod with a wide range of options, including the ability to play as a non-Dragonborn character.
+  Customize plenty of options such as starting location, items and spells. Skip the opening sequence and bypass the first few chapters of the main questline.
+  Optionally, play as a non-dragonborn, completely avoiding the main quest.
+  
+  #### Dragons and Main Quest
+
+  The game begins with no dragons, Skyrim Unbound delays them depending on the MCM settings.
+  By default, dragons at word walls appear after a week or two of in-game time. After another week or so, dragons start to appear randomly.
+  In the MCM you can customize the delay and choose between timed and leveled modes.
+
+  Skyrim Unbound allows you to play as a non-dragonborn, without shouts, soul absorbtion and playing the main quest (including the main quest of Dragonborn DLC).
+  The Civil War can be finished without encountering dragons or being Dragonborn.
+
+  The first few chapters of the main questline are bypassed, meaning you no longer have to obtain the Dragonstone for Farengar or defeat Mirmulnir for the Jarl of Whiterun.
+  When you absorb a dragon soul for the first time, you'll be summoned to High Hrothgar by the Greybeards after a while.
+  The first word of the Unrelenting Force will be learned automatically after this, or you can find it earlier in Bleak Falls Barrow.
+  
+  #### Whiterun Thaneship
+
+  The way you can become a thane of Whiterun is different.
+  Complete The Blessings of Nature quest and talk to Jarl Balgruuf when the Gildergreen tree is repaired/the sappling blooms.
+  He'll thank you and allow you to buy the Breezehome, and the standard thaneship quest (help people of the hold and buy a house to become a thane) will be available.
+  
   ### Quest and Encounter Mods
   
   Skybax has some DLC-sized additions like:</a>
@@ -156,6 +184,7 @@
   - [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) ([Re-Imagined SE](https://www.nexusmods.com/skyrimspecialedition/mods/37996))
   - [Vixi Talax](https://www.nexusmods.com/skyrimspecialedition/mods/54101)
   - [Ambriel](https://www.nexusmods.com/skyrimspecialedition/mods/969) ([Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2200))
+  - [Nyx](https://www.nexusmods.com/skyrimspecialedition/mods/50158)
   
   Some followers (like Auri) spawn their own mount. You need to disable "Allow Horse" in NFF for those, else they will spawn two mounts (and use the wrong one).
   ![image](https://i.imgur.com/aZyP50F.png)
@@ -185,12 +214,25 @@
   
   ## Creating your Character
   
-  When creating a new game, you'll spawn in an Alternate Start - Live Another Life cell.
-  Start creating your character, in the "Head" tab, scroll down to the "Face Part" option and select number 3 "High Poly Head".
+  When creating a new game, you'll hover above Helgen.
+  Press the Escape key, go to the MCM menu and scroll down to "Skyrim Unbound".
+  Here you can customize the options you want to have in your game. All options have descriptions.
+  Pay attention to the Dragon Souls option on the first page, which defines if you're Dragonborn or not (random by default).
+  
+  Click the Begin your Adventure option (the first option on the first MCM page).
+  
+  You get to the starting room, the character creation menu is opened.
+  Start creating your character, in the "Head" tab, scroll down to the "Face Part" option and select number 3 "High Poly Head" (optional).
   When choosing your brows and beard, use the ones that are compatible with High Poly Head (all of them, except vanilla).
   If you're happy with your character, save it and name it.
   
-  Now just <b>wait</b> until all messages at the top left are gone.
+  Now you'll be given a choice:
+  - Continue: Start the game
+  - Swap Gear: Re-add all the items (which can give you a different result) and open the character creation menu again
+  - Stay Here: Stay in the starting room. Press the hotkey to choose an action: Continue, Swap Gear or Open RaceMenu. Choose Continue or use the first MCM option again to start the game.
+  
+  Your adventure begins with no quests in your journal.
+  
   When the "Fertility+" popup comes up, just select "No", this mod is quite heavy on loading, so we do this later on.
   If there are no more messages coming up in the top left, press ESC, go to the "MCM" menu and scroll down to "Nemesis PCEA".
   Enable "0Dser_Animations".
@@ -198,7 +240,7 @@
   
   Hit ESC and create a manual save, just to be sure.
   
-  Now you're ready to start your adventure, interact with the Mara statue to choose a game start, then go to sleep in the bed behind you.
+  Now you're ready to start your adventure.
   
   ## In-Game MCM Options
   
