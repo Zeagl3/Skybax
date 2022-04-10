@@ -1,6 +1,6 @@
 # Changelog ([Modlist](https://loadorderlibrary.com/lists/skybax))
 
-## 1.4 (In Development)
+## 1.4 (Released @ 10/04/2022)
 
 ### Added:
 - [Enhanced Volumetric Lighting and Shadows (EVLaS) 1.3](https://www.nexusmods.com/skyrimspecialedition/mods/63725)
