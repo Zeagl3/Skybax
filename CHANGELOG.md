@@ -1,5 +1,13 @@
 # Changelog ([Modlist](https://loadorderlibrary.com/lists/skybax))
 
+## 1.4.1 (Released @ 12/04/2022)
+
+### Changed
+This is just a small version change to enable the Wabbajack CDN.
+You can now download Skybax directly from Wabbajack, no need to download a large file from Google Drive anymore.
+
+The xLODGen, TexGen and DynDOLOD Outputs are also excluded from the Wabbajack file and uploaded to the Skyrim Nexus.
+
 ## 1.4 (Released @ 10/04/2022)
 
 ### Added:
