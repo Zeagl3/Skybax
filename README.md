@@ -88,14 +88,9 @@
   
   The download and installation of Skybax can take some time depending on your internet speed and PC specs.
   It is recommended to install Skybax on an SSD drive.
-  1. Download the Skybax Wabbajack file from the [Skybax Discord server](https://discord.gg/C7rqSmzNpf) (Releases channel)
-  2. Open Wabbajack
-  3. Click "Install From Disk"
-  4. "Target Modlist": select the downloaded Skybax Wabbajack file
-  5. "Installation Location": point this to the folder you want Skybax installed to (preferably on an SSD)
-  6. "Download Location": Same folder as above, but with "downloads" subfolder
-  7. Press the Play button
-  8. Wait :)
+  1. In Wabbajack make sure you select "Skyrim Special Edition" in the "Game" Dropdown
+  2. Enable the checkboxes by "NSFW" and "Show Unofficial Lists"
+  3. Skybax will be visible in the list and you can start downloading it.
   
   ##### Problems with Wabbajack
   
