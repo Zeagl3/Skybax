@@ -26,7 +26,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Zeagl3/Skybax/main/image/skybax-banner.png",
+      "image": "https://raw.githubusercontent.com/Zeagl3/Skybax/main/image/skybax-logo.png",
       "readme": "https://github.com/Zeagl3/Skybax/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Skybax.wabbajack_bd078003-6a67-418d-8c5d-af8f55d80ce6",
       "machineURL": "Zeagle_Skybax",
