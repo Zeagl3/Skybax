@@ -8,37 +8,40 @@
       "github/Zeagl3"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
-	  "NSFW",
+      "NSFW",
       "LotD",
-	  "EnaiRim",
-	  "Quests",
-	  "Content",
-	  "Followers",
-	  "OSA",
-	  "OSex",
-	  "OStim"
+      "EnaiRim",
+      "Quests",
+      "Content",
+      "Followers",
+      "OSA",
+      "OSex",
+      "OStim"
     ],
     "nsfw": true,
+    "utility_list": false,
     "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Zeagl3/Skybax/main/image/skybax-banner.png",
+      "image": "https://raw.githubusercontent.com/Zeagl3/Skybax/main/image/skybax-logo.png",
       "readme": "https://github.com/Zeagl3/Skybax/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skybax%20v1.4.1.wabbajack_5fae7f71-0373-4b2f-9b73-08345f217e46",
+      "download": "https://authored-files.wabbajack.org/Skybax.wabbajack_bd078003-6a67-418d-8c5d-af8f55d80ce6",
       "machineURL": "Zeagle_Skybax",
       "discordURL": "https://discord.gg/C7rqSmzNpf"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "vOeBgnJcPc8=",
-      "Size": 1230500793,
+      "Hash": "n8bJOXwoMz8=",
+      "Size": 1231504484,
       "NumberOfArchives": 1600,
       "SizeOfArchives": 163374792526,
-      "NumberOfInstalledFiles": 235735,
-      "SizeOfInstalledFiles": 287326206329
+      "NumberOfInstalledFiles": 235730,
+      "SizeOfInstalledFiles": 287326206269
     },
-    "version": "1.4.1"
+    "version": "1.4.1",
+    "RepositoryName": ""
   }
 ]
