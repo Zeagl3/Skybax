@@ -1,5 +1,19 @@
 # Changelog ([Modlist](https://loadorderlibrary.com/lists/skybax))
 
+## 1.5.0 (In Development)
+
+### Added:
+- [Pause Menu After Loading Screen v5](https://www.nexusmods.com/skyrimspecialedition/mods/62031)
+- [Alternate Perspective - Alternate Start Reborn 2.7.2](https://www.nexusmods.com/skyrimspecialedition/mods/50307)
+
+### Removed:
+- Serana Dialogue Edit
+- Skyrim Unbound Reborn
+
+### Updated:
+- Serana Dialogue Addon: 2.9.2.7 --&gt; 3.0
+
+
 ## 1.4.1 (Released @ 12/04/2022)
 
 ### Changed
