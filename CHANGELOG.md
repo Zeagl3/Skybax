@@ -42,8 +42,7 @@
 - Odin - Skyrim Magic Overhaul
 
 ### Updated:
-- Serana Dialogue Addon: 2.9.2.7 --&gt; 3.0
-- More Informative Console: 0.43 --&gt; 1.0
+- A shit load of mods to their latest version :)
 
 
 ## 1.4.1 (Released @ 12/04/2022)
