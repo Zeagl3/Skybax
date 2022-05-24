@@ -5,13 +5,45 @@
 ### Added:
 - [Pause Menu After Loading Screen v5](https://www.nexusmods.com/skyrimspecialedition/mods/62031)
 - [Alternate Perspective - Alternate Start Reborn 2.7.2](https://www.nexusmods.com/skyrimspecialedition/mods/50307)
+- [New Beginnings - Alternate Perspective Extension v1.3.2](https://www.nexusmods.com/skyrimspecialedition/mods/57818)
+- [Combat Gameplay Overhaul SE v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/33767)
+- [Smart Harvest SE v4.1.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/37091)
+- [Better Third Person Selection v0.5.4](https://www.nexusmods.com/skyrimspecialedition/mods/64339)
+- [JS Bloodstone Chalice v1.02](https://www.nexusmods.com/skyrimspecialedition/mods/66038)
+- [Dwemer Goggles and Scouter v1.3](https://www.nexusmods.com/skyrimspecialedition/mods/1959)
+- [Fluffworks v1.1f](https://www.nexusmods.com/skyrimspecialedition/mods/56361)
+- [Fluffworks - Better Photoreal Foxes v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/65974)
+- [Fluffy FrostGiant v2.0](https://www.nexusmods.com/skyrimspecialedition/mods/66682)
+- [Skyrim Reputation v2.4](https://www.nexusmods.com/skyrimspecialedition/mods/22374)
+- [The Second Great War v1.09](https://www.nexusmods.com/skyrimspecialedition/mods/17204)
+- [Dual Wield Parrying Reimplementation for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/18264)
+- [ENB Input Disabled v1.0.2](https://www.nexusmods.com/skyrimspecialedition/mods/62796)
+- [Nature of the Wild Lands v1.2](https://www.nexusmods.com/skyrimspecialedition/mods/63604)
+- [Simple Trees Randomizer v0.1beta](https://www.nexusmods.com/skyrimspecialedition/mods/61984)
+- [Sanguinaire (Revised Edition - Skyrim Vampire and Lycanthropy Experience) v11.1](https://www.nexusmods.com/skyrimspecialedition/mods/26312)
+- [Mysticism - A Magic Overhaul v2.0.6](https://www.nexusmods.com/skyrimspecialedition/mods/27839)
+- [Aetherium Armor and Weapons Compilation v1.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/2687)
+- [Immersive Interactions v1.66](https://www.nexusmods.com/skyrimspecialedition/mods/47670)
+- [Skyshards v1.6.0](https://www.nexusmods.com/skyrimspecialedition/mods/60748)
 
 ### Removed:
 - Serana Dialogue Edit
 - Skyrim Unbound Reborn
+- The Ultimate Dodge Mod
+- Bloodstone Chalice Reborn
+- Fusa Fusa Project
+- Fabulous Foxes
+- Gesture Animation Remix
+- NPC Animation Remix
+- Skyrim 3D Trees and Plants
+- Happy Little Trees
+- Pine Branches Redone
+- Sacrilege - Minimalistic Vampires of Skyrim
+- Odin - Skyrim Magic Overhaul
 
 ### Updated:
 - Serana Dialogue Addon: 2.9.2.7 --&gt; 3.0
+- More Informative Console: 0.43 --&gt; 1.0
 
 
 ## 1.4.1 (Released @ 12/04/2022)
