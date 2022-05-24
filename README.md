@@ -81,7 +81,8 @@
   ##### Downgrade Skyrim
   
   Skybax requires the latest version of Skyrim Special Edition (1.5.97.0), so the pre-AE version.
-  If you have upgraded your Skyrim to AE, download the [Unofficial Downgrader](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) (FullPatcher.exe) and let it run.
+  It doesn't matter if you bought the Creation Club content or not, you NEED to downgrade your Skyrim installation!
+  Download the [Unofficial Downgrader](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) (FullPatcher.exe) and let it run.
   This may take a while.
   
   #### Downloading and Installing
@@ -97,6 +98,7 @@
   Some mods won't be downloaded through Wabbajack because they are not available on the Skyrim Nexus.
   The mods that need a manual download are listed in the [Skybax Discord server](https://discord.gg/C7rqSmzNpf).
   Download them and put them in the mod's Download folder.
+  Run Wabbajack again, it will recognize the downloaded files and continue with the rest.
   
   ## Post-Installation
   
