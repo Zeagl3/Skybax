@@ -25,6 +25,8 @@
 - [Aetherium Armor and Weapons Compilation v1.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/2687)
 - [Immersive Interactions v1.66](https://www.nexusmods.com/skyrimspecialedition/mods/47670)
 - [Skyshards v1.6.0](https://www.nexusmods.com/skyrimspecialedition/mods/60748)
+- [Skyrim 2020 Terrain Parallax 4K2K](https://www.nexusmods.com/skyrimspecialedition/mods/54860)
+- [Skyrim 2022 - Whiterun 4K2K](https://www.nexusmods.com/skyrimspecialedition/mods/62180)
 
 ### Removed:
 - Serana Dialogue Edit
